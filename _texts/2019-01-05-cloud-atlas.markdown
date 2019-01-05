@@ -9,7 +9,7 @@ shortintro: David Mitchell's masterful storytelling and control of language prod
 ---
 <hr/>
 
-You feel thrown into the life of a maritime traveller in the 19th century by reading excerpts from his journal. The first-person perspective mixed with the antiquated, informal and peculiar language knock you off-balance. It's not entirely clear what the narrator wants you to imagine or see from his perspective, and you almost feel blind-folded, curious about his goals and where the story is heading. Although it's a little confusing at first, be assured, it's leading you to an incredible story.
+You feel thrown into the life of a maritime traveller in the 19th century by reading excerpts from his journal. The first-person perspective mixed with the antiquated, informal and peculiar language knocks you off-balance. It's not entirely clear what the narrator wants you to imagine or see from his perspective, and you almost feel blind-folded, curious about his goals and where the story is heading. Although it's a little confusing at first, be assured, it's leading you to an incredible story.
 
 <h2><strong>Design</strong></h2>
 This feeling of uncertainty will later seem intentional, as each chapter of the book is aimed to convey a seemingly independent part of a character's life. However, these apparently independent stories will be woven into a complex narrative, where each story is actually a record—whether written in journals, letters or video-recorded—and read or viewed from the perspective of another character within the book.
