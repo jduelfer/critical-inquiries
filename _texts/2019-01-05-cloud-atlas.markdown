@@ -6,6 +6,7 @@ bookauthor: David Mitchell
 date: 2019-01-05 15:00:00 -0400
 categories: fiction scifi
 shortintro: David Mitchell's masterful storytelling and control of language produced a shockingly innovative novel, filled with wisdom, suspense and creativity.
+comments: true
 ---
 <hr/>
 
