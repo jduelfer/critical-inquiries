@@ -3,9 +3,10 @@ layout: default
 ---
 
 <div class="narrative">
-  <h1 class="text-title">{{ page.title }} by {{ page.bookauthor }}</h1>
+  <h1 id="postTitle" class="text-title">{{ page.title }} by {{ page.bookauthor }}</h1>
   <p class="citation"> Reviewed by {{ page.author }}</p>
   {{ content }}
 </div>
 
+{% include tracking.html %}
 {% include disqus.html %}
