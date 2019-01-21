@@ -6,7 +6,7 @@ title: "Home"
 <div class="toc">
   <h2>Featured works</h2>
   <ul class="texts">
-  {% for item in site.texts %}
+  {% for item in site.texts reversed %}
   
     <li class="text-title">
       <a href="{{ site.baseurl }}{{ item.url }}">
