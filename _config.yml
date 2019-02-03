@@ -1,12 +1,12 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Critical Inquiries
+title:               The Inquiring Reader
 tagline:             'Discussing interesting books'
 description:         'Reviews about fiction and non-fiction books
                       that explore interesting concepts and ideas.'
-url:                 'http://jduelfer.github.io'
-baseurl:             '/critical-inquiries'
+url:                 'http://inquiringreader.org'
+baseurl:             '/'
 
 # About/contact
 author:
