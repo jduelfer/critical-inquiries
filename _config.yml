@@ -6,7 +6,7 @@ tagline:             'Discussing interesting books'
 description:         'Reviews about fiction and non-fiction books
                       that explore interesting concepts and ideas.'
 url:                 'http://inquiringreader.org'
-baseurl:             '/'
+baseurl:             ''
 
 # About/contact
 author:
