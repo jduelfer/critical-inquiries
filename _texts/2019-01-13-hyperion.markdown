@@ -5,6 +5,8 @@ title: Hyperion
 bookauthor: Dan Simmons
 date: 2019-01-13 15:00:00 -0400
 categories: fiction scifi space-opera
+description: 
+keywords: Hyperion, Dan Simmons, Science Fiction, book, review
 comments: true
 ---
 <hr/>

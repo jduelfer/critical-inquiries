@@ -2,9 +2,10 @@
 
 # Setup
 title:               The Inquiring Reader
-tagline:             'Discussing interesting books'
-description:         'Reviews about fiction and non-fiction books
-                      that explore interesting concepts and ideas.'
+tagline:             Discussing interesting books and ideas
+description:         'Reviews about great books with a focus on innovative 
+                      and creative ideas that help us understand the world 
+                      we live in.'
 url:                 'http://inquiringreader.org'
 baseurl:             ''
 
@@ -44,10 +45,7 @@ kramdown:
 
 # Exclusions from the final site
 exclude:
-  - optional
   - vendor
 
 # Theme
 theme: "ed."
-
-
