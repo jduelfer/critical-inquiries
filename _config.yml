@@ -49,3 +49,6 @@ exclude:
 
 # Theme
 theme: "ed."
+
+plugins:
+  - jekyll-sitemap
