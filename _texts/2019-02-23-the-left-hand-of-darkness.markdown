@@ -7,6 +7,10 @@ date: 2019-02-23 19:00:00 -0400
 categories: fiction scifi
 description: The Left Hand of Darkness is a wonderfully dense novel with layers and layers of beautifully imaginative landscapes, poignant social commentaries and political intrigue.
 keywords: Left Hand of Darkness, Ursula K. Le Guin, Science Fiction, book, review
+type: novel
+cover: left-hand-of-darkness-cover.jpg
+order: 2
+recommended: true
 comments: true
 ---
 <hr/>

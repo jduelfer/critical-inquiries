@@ -7,6 +7,10 @@ date: 2019-01-05 15:00:00 -0400
 categories: fiction scifi
 description: David Mitchell's masterful storytelling and control of language produced a shockingly innovative novel, filled with wisdom, suspense and creativity.
 keywords: Cloud Atlas, David Mitchell, Fiction, Science Fiction
+type: novel
+cover: cloud-atlas-cover.jpg
+order: 1
+recommended: true
 comments: true
 ---
 <hr/>

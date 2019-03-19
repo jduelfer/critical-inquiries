@@ -7,6 +7,7 @@ date: 2019-03-17 19:00:00 -0400
 categories: fiction speculative apocalyptic
 description: Bringing Down the Sky is a reminder that without action, the more prosperous will take advantage of underrepresented groups due to the fundamental structure of society.
 keywords: Bringing Down the Sky, Alan Bao, Speculative Fiction, Short Story, review
+type: short-story
 comments: true
 ---
 <hr/>
