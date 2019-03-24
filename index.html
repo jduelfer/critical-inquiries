@@ -9,12 +9,14 @@ keywords: Books, Novels, Reviews, Literature
 <div class="toc">
   <h2>Recent posts</h2>
   <ul class="texts">
-    {% for item in site.texts reversed limit:5 %}
-      <li>
-        <a href="{{ site.baseurl }}{{ item.url }}" style="font-size: 16px;">
-          {{ item.date | date_to_string }} - {{ item.title }}
-        </a>
-      </li>
+    {% for item in site.texts reversed %}
+      {% if forloop.index < 6 %}
+        <li>
+          <a href="{{ site.baseurl }}{{ item.url }}" style="font-size: 16px;">
+            {{ item.date | date_to_string }} - {{ item.title }}
+          </a>
+        </li>
+      {% endif %}
     {% endfor %}
   </ul>
 
