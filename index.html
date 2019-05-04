@@ -28,7 +28,33 @@ keywords: Books, Novels, Reviews, Literature
         {% if item.recommended %}
         <li class="text-title" style="list-style-type:none;padding-bottom: 10px;">
           <div style="overflow: hidden;">
-            <div style="float:left; margin-right: 10px;">
+            <div style="float:left; margin-right: 10px;cursor: pointer;"
+                 onclick="document.location='{{site.baseurl}}{{item.url}}'">
+              <img height="100px" src="{{ site.basurl }}/assets/img/{{ item.cover }}"/>
+            </div>
+            <div>
+              <a href="{{ site.baseurl }}{{ item.url }}" style="font-size: 20px;">
+                <i>{{ item.title }}</i> by {{ item.bookauthor }}
+              </a>
+              <p style="font-size: 16px">{{ item.description }}</p>
+            </div>
+          </div>
+        </li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  <h2>Recommended non-fiction</h2>
+  <ul class="texts" style="padding-left:0px;">
+    {% assign sorted_pages = site.texts | sort: 'order' %}
+    {% for item in sorted_pages %}
+      {% if item.type == "non-fiction" %}
+        {% if item.recommended %}
+        <li class="text-title" style="list-style-type:none;padding-bottom: 10px;">
+          <div style="overflow: hidden;">
+            <div style="float:left; margin-right: 10px;cursor: pointer;"
+                 onclick="document.location='{{site.baseurl}}{{item.url}}'">
               <img height="100px" src="{{ site.basurl }}/assets/img/{{ item.cover }}"/>
             </div>
             <div>

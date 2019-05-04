@@ -1,0 +1,37 @@
+---
+layout: narrative
+author: Jon Duelfer
+title: "Postwar: A History of Europe Since 1945"
+bookauthor: Tony Judt
+date: 2019-03-25 19:00:00 -0400
+categories: non-fiction history european
+description: Postwar is an awe-inspiring history of the European community rebuilt from the remnants of World War II. It plunges into the horrendous regimes of postwar dictators, perilous revolutions led by university students, and viscous wars that both tore down and gave birth to new nations.
+keywords: Postwar, Tony Judt, book, review, history, Europe, World War II, European history, modern Europe, book review, non-fiction
+type: non-fiction
+cover: postwar-cover.jpg
+order: 1
+recommended: true
+comments: true
+---
+<hr/>
+
+> Men live not in markets but in communities.
+
+_Postwar_ is an awe-inspiring history of the European community rebuilt from the remnants of World War II. It plunges into the horrendous regimes of postwar dictators, perilous revolutions led by university students, and viscous wars that both tore down and gave birth to new nations. Though more than anything, _Postwar_ follows a sentiment. It traces an emerging _feeling_ of Europe, how it came to be, how it prospered, faltered, and what it will become in the 21st century.
+
+<h2><strong>Design</strong></h2>
+_Postwar_ is enormous in both size and scope. Fortunately, Tony Judt divides the boundless history of postwar Europe into digestible essays. This allows the reader to understand a complex sequence of events while being able to put down and come back to the book without losing context. Better yet, each essay is passionately written as if it were a story, placing you in the shoes of the historical figures that shaped modern Europe.
+
+Judt's direct prose and clarity tells a heartfelt story of Europe, welcoming to audiences of any background. Although he states in the introduction that he specifically avoids any overarching theory, you cannot help but see the picture he paints of Europe: a place of ideas. He portrays philosophy and politics as driving forces behind the changes across the continent. Each chapter sits roughly chronologically on the timeline between the end of World War II and today, yet Judt occasionally pulls in events that slightly overlap, allowing him to express a consistent theme–or themes–in each of the chapters.
+
+<h2><strong>Thoughts</strong></h2>
+The books opens with a pessimistic tone, detailing the misery of Postwar Europe. Not only are the average citizens struggling to get by with surging unemployment and food rations, Judt empirically show that many were actually worse off than they were during the war. At the same time, the leaders of broken nations are stagnant. The same politicians that led their people to commit horrid crimes against humanity were placed back into office by the victors of the war, because – in their eyes – there were simply no other capable statesmen. Judges that once presided in court for the will of the Nazi party took up their old jobs for the new Liberal Democratic parties, and were often in charge of persecuting their former coworkers. Judt foreshadows that this transition will bring a new wave of horrors, disguised in a shroud of Liberal Democracy, as the powers of the old order hadn't really been overthrown, merely shifted and shuffled around. The harbingers of Fascism became zealots of the new world order, and wielded power in the construction of the new states of Europe.
+
+Although the second World War was the culmination of Fascism, Judt demonstrates that its building blocks never left Europe. He reveals that through the remnants of the war, benevolent and skillful politicians hijacked governments across Europe: Tito's Czechoslovakia, Milosevic's Yugoslavia and Stalin's USSR. From crumbling governments to polarized populaces, dictators were able to gain the praise of a sufficient amount of the population – as well as the army – in order to secure a hold on fragile institutions. Judt details these events spectacularly, diving into the backgrounds of each country to understand how their leaders came into power.
+
+The fact that Judt focuses so heavily on the events of individual actors is one of the only drawbacks that can be found in this masterpiece. He portrays the country as being led by dictators, wielding great power to push their agendas. This may very well be the case, but more of a focus on the populace and the institutions that executed their agendas would have helped the reader contextualize _how_ seemingly absurd events could have taken place by comparing them with our current political system. This may, however, lean too much towards political philosophy, which Judt clearly states he attempted to avoid.
+
+European regionalism is handled very delicately. Judt painstakingly attempts to convey regional identity and the parts they play in international politics. As an example, he is acutely aware of Catalan and Basque identities as independent from the Spanish nation, and efficiently separates events that pertain to, or are driven by, these regional identities from events related to an overarching Spanish authority. It is a very difficult task to analyze international events while dedicating so much effort to understanding how cultural identity may alter the lens through which we view history. 
+
+<h2><strong>Final Review</strong></h2>
+_Postwar_ is a behemoth. Although it took me close to six months to read the book in its entirety, from taking breaks between each essay, I loved every moment of reading it. Judt writes so clearly and passionately, and writes the history of Postwar Europe in such a compelling tale, that you will find your time decidedly well-invested. For anybody interested in modern Europe and how recent history has shaped its identity and that of its inhabitants, this remarkable book should soar to the top of your reading list.
