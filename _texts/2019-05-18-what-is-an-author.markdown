@@ -15,7 +15,7 @@ comments: true
 
 > “What is a work?...Of what elements is it composed? Is it not what an author has written?”
 
-Michel Foucault writes that notable works of literature generate a form of discourse in which we may understand the world. In other words, specific pieces of writing open a space we can discuss concepts under a common lens, with similar terminology and understanding. The form of discourse can only be understood by referring to the initial work from which the discourse originated.
+Michel Foucault writes that notable works of literature generate a form of discourse in which we may understand the world. In other words, specific pieces of writing open a space where we can discuss concepts under a common lens, with similar terminology and understanding. The form of discourse can only be understood by referring to the initial work from which the discourse originated.
 
 > Unlike the founding of a science, the initiation of a discursive practice does not participate in its later transformations.
 
