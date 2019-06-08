@@ -7,18 +7,45 @@ keywords: Books, Novels, Reviews, Literature
 ---
 
 <div class="toc">
-  <h2>Recent posts</h2>
-  <ul class="texts">
-    {% for item in site.texts reversed %}
-      {% if forloop.index < 6 %}
+  <div class="flex-container">
+    <div class="double-section">
+      <h2 class="text-center">Recent posts</h2>
+      <ul class="texts" style="border-right: 1px solid #eee;">
+        {% for item in site.texts reversed %}
+          {% if forloop.index < 6 %}
+            {% if item.isMeaningOfWriting == null %}
+            <li>
+              <a href="{{ site.baseurl }}{{ item.url }}" style="font-size: 16px;">
+                {{ item.date | date_to_string }} - {{ item.title }}
+              </a>
+            </li>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="double-section">
+      <h2 class="text-center">The Meaning of Writing</h2>
+      <ul class="texts">
         <li>
-          <a href="{{ site.baseurl }}{{ item.url }}" style="font-size: 16px;">
-            {{ item.date | date_to_string }} - {{ item.title }}
+          <a href="{{ site.baseurl }}/meaning-of-writing" style="font-size: 16px;">
+            Introduction
           </a>
         </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
+        {% for item in site.texts reversed %}
+          {% if forloop.index < 6 %}
+            {% if item.isMeaningOfWriting == true %}
+            <li>
+              <a href="{{ site.baseurl }}{{ item.url }}" style="font-size: 16px;">
+                {{ item.title }}
+              </a>
+            </li>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
 
   <h2>Recommended novels</h2>
   <ul class="texts" style="padding-left:0px;">

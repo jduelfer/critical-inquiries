@@ -2,10 +2,9 @@
 
 # Setup
 title:               The Inquiring Reader
-tagline:             Discussing interesting books and ideas
-description:         'Reviews about great books with a focus on innovative 
-                      and creative ideas that help us understand the world 
-                      we live in.'
+tagline:             Discussing interesting writing and ideas
+description:         'Reviews and articles on writing that help
+                      us understand the intriguing world we live in.'
 url:                 'http://inquiringreader.org'
 baseurl:             ''
 

@@ -26,11 +26,37 @@ $text-color: #454545;
 $heading-color: #404040;
 $link-color: #841212;
 
+$app-media-xs: 767px;
 
 @import "ed";
 @import "syntax";
 
+.text-center {
+    text-align: center;
+}
+.section-line {
+    margin-top: .5rem !important;
+    margin-bottom: .5rem !important;
+}
 
+.flex-container {
+    display: flex;
+}
 
+@media screen and (min-width: $app-media-xs) {
+    .flex-container {
+        flex-direction: row;
+    }
+
+    .double-section {
+        flex: 50%;
+    }
+}
+
+@media screen and (max-width: $app-media-xs) {
+    .flex-container {
+        flex-direction: column;
+    }
+}
 
 
