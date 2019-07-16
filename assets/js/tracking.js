@@ -4,9 +4,13 @@ $(document).ready(function() {
     if (postTitleElement) {
         postTitle = postTitleElement.textContent;
     }
+    var userAgent = navigator.userAgent;
+    var language = navigator.language;
+    var isPossibleBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(navigator.userAgent);
     $.ajax({
         type: 'GET',
-        url: 'https://criticalinquiries-developer-edition.na85.force.com/services/apexrest/v1/tracking?referrer=' + document.referrer + '&title=' + postTitle,
+        url: 'https://criticalinquiries-developer-edition.na85.force.com/services/apexrest/v1/tracking?referrer=' + document.referrer
+             + '&title=' + postTitle + '&agent=' + userAgent + '&bot=' + isPossibleBot + '&language=' + language,
         jsonp: "callback",
         dataType: "jsonp",
         success: function(response) {
