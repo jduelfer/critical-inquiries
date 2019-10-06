@@ -3,6 +3,7 @@ layout: narrative
 author: Jon Duelfer
 title: Bringing Down the Sky
 bookauthor: Alan Bao
+bookauthorurl: authors/alan-bao
 date: 2019-03-17 19:00:00 -0400
 categories: fiction speculative apocalyptic
 description: Bringing Down the Sky is a reminder that without action, the more prosperous will take advantage of underrepresented groups due to the fundamental structure of society.

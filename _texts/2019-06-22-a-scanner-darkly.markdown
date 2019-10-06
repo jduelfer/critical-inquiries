@@ -3,14 +3,17 @@ layout: narrative
 author: Jon Duelfer
 title: A Scanner Darkly
 bookauthor: Philip K. Dick
+bookauthorurl: authors/philip-dick
 date: 2019-06-22 19:00:00 -0400
 categories: fiction scifi
-description: _A Scanner Darkly_ is a somber narrative that looks into the psychological and socioeconomic effects of drug addiction. Although the story itself falls somewhere on the spectrum between crime and science fiction, how drug abuse affects cognition, perception and ultimately the well-being its users is the focal point of the novel.
+description: A Scanner Darkly is a somber narrative that looks into the psychological and socioeconomic effects of drug addiction. Although the story itself falls somewhere on the spectrum between crime and science fiction, how drug abuse affects cognition, perception and ultimately the well-being its users is the focal point of the novel.
 keywords: A Scanner Darkly, Philip K. Dick, PKD, Science Fiction, book, review
 type: novel
 recommended: false
 comments: true
+cover: scanner-darkly.jpg
 ---
+<p style="font-size: 11px; text-align:center;">By Source, <a href="//en.wikipedia.org/wiki/File:AScannerDarkly(1stEd).jpg" title="Fair use of copyrighted material in the context of A Scanner Darkly">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=9067068">Link</a></p>
 <hr/>
 
 _A Scanner Darkly_ is a somber narrative that looks into the psychological and socioeconomic effects of drug addiction. Although the story itself falls somewhere on the spectrum between crime and science fiction, how drug abuse affects cognition, perception and ultimately the well-being its users is the focal point of the novel. The casual reader should shy away from this book unless they are interested in these topics, or have previously read works by Philip K. Dick and have an understanding of his background and style. That being said, if the reader meets this criteria, or has a desire to dive into something radically different, _A Scanner Darkly_ will be a genuine addition to their repertoire. PDK – a  common abbreviation of the author's name – drew from the darkest parts of his own experience to explore drug abuse within an entertaining science fiction novel, that although might not aesthetically appeal to everyone, will remain a pillar of his writing and life. As he stated in [this interview](https://web.archive.org/web/20120511085758/http://philipkdick.com/media_sfeye96.html):

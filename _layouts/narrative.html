@@ -3,8 +3,25 @@ layout: default
 ---
 
 <div class="narrative">
-  <h1 id="postTitle" class="text-title"><i>{{ page.title }}</i> by {{ page.bookauthor }}</h1>
-  <p class="citation"> Reviewed by {{ page.author }}</p>
+  <h1 id="postTitle" class="text-title" style="margin-bottom:0px;"><strong>{{ page.title }}</strong></h1>
+  {% if page.bookauthor %}
+    <p class="citation" style="margin-bottom:0px;"><i>by</i> 
+    <a href="/{{ page.bookauthorurl }}">{{ page.bookauthor }}</a></p>
+  {% endif %}
+  {% if page.thoughtarticle %}
+    <p class="citation"><i>written by</i> {{ page.author }}</p>
+  {% else %}
+    {% if page.author %}
+      <p class="citation"><i>reviewed by</i> {{ page.author }}</p>
+    {% endif %}
+  {% endif %}
+  {% if page.cover %}
+    {% if page.isMeaningOfWriting %}
+      <img style="margin: auto !important;max-height: 300px;" src="{{ site.basurl }}/assets/img/{{ page.cover }}"/>
+    {% else %}
+      <img style="margin: auto !important;max-height: 500px;" src="{{ site.basurl }}/assets/img/{{ page.cover }}"/>
+    {% endif %}
+  {% endif %}
   {{ content }}
 </div>
 

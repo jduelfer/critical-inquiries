@@ -3,6 +3,7 @@ layout: narrative
 author: Jon Duelfer
 title: Borderland
 bookauthor: Olga Tokarczuk
+bookauthorurl: authors/olga-tokarczuk
 date: 2019-03-23 19:00:00 -0400
 categories: fiction speculative apocalyptic
 description: Borderland is somber story about a writer in a post-apocalyptic world who is trying to make sense of the collapsing world around him.

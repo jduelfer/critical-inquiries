@@ -3,6 +3,7 @@ layout: narrative
 author: Jon Duelfer
 title: Station Eleven
 bookauthor: Emily St. John Mandel
+bookauthorurl: authors/emily-st-john-mandel
 date: 2019-03-03 16:00:00 -0400
 categories: fiction speculative apocalyptic
 description: Station Eleven is a modest speculation on the way culture would transform after a pandemic eradicates the majority of human population.

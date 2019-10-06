@@ -3,6 +3,7 @@ layout: narrative
 author: Jon Duelfer
 title: Hyperion
 bookauthor: Dan Simmons
+bookauthorurl: authors/dan-simmons
 date: 2019-01-13 15:00:00 -0400
 categories: fiction scifi space-opera
 description: Hyperion is an intricate space opera that manages to blend detailed character development with an epic storyline. Through stories told from an array of characters, Simmons weaves a complex universe for a satisfying adventure.

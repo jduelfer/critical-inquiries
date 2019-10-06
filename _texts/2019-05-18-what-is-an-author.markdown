@@ -3,6 +3,7 @@ layout: narrative
 author: Jon Duelfer
 title: What is an Author?
 bookauthor: Michel Foucault
+bookauthorurl: authors/michel-foucault
 date: 2019-05-18 12:00:00 -0400
 categories: non-fiction
 description: Michel Foucault writes that notable works of literature generate a form of discourse in which we may understand the world. In other words, specific pieces of writing open a space where people can discuss concepts under a common lens, with similar terminology and understanding. The form of discourse can only be understood by referring to the initial work from which the discourse originated.
@@ -10,10 +11,12 @@ keywords: Author, Foucault
 type: non-fiction
 isMeaningOfWriting: true
 comments: true
+cover: foucault.jpg
 ---
-<hr/>
-
+<br/>
 > “What is a work?...Of what elements is it composed? Is it not what an author has written?”
+
+<hr/>
 
 Michel Foucault writes that notable works of literature generate a form of discourse in which we may understand the world. In other words, specific pieces of writing open a space where we can discuss concepts under a common lens, with similar terminology and understanding. The form of discourse can only be understood by referring to the initial work from which the discourse originated.
 

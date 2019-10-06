@@ -9,14 +9,14 @@ keywords: Books, Novels, Reviews, Literature
 <div class="toc">
   <div class="flex-container">
     <div class="double-section">
-      <h2 class="text-center">Recent posts</h2>
+      <h2 class="text-center">Recent reviews</h2>
       <ul class="texts" style="border-right: 1px solid #eee;">
         {% for item in site.texts reversed %}
-          {% if forloop.index < 6 %}
+          {% if forloop.index < 10 %}
             {% if item.isMeaningOfWriting == null %}
             <li>
               <a href="{{ site.baseurl }}{{ item.url }}" style="font-size: 16px;">
-                {{ item.date | date_to_string }} - {{ item.title }}
+                {{ item.title }}
               </a>
             </li>
             {% endif %}
@@ -32,15 +32,13 @@ keywords: Books, Novels, Reviews, Literature
             Introduction
           </a>
         </li>
-        {% for item in site.texts reversed %}
-          {% if forloop.index < 6 %}
-            {% if item.isMeaningOfWriting == true %}
-            <li>
-              <a href="{{ site.baseurl }}{{ item.url }}" style="font-size: 16px;">
-                {{ item.title }}
-              </a>
-            </li>
-            {% endif %}
+        {% for item in site.texts %}
+          {% if item.isMeaningOfWriting == true %}
+          <li>
+            <a href="{{ site.baseurl }}{{ item.url }}" style="font-size: 16px;">
+              {{ item.title }}
+            </a>
+          </li>
           {% endif %}
         {% endfor %}
       </ul>
