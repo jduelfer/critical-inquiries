@@ -22,6 +22,21 @@ layout: default
       <img style="margin: auto !important;max-height: 500px;" src="{{ site.basurl }}/assets/img/{{ page.cover }}"/>
     {% endif %}
   {% endif %}
+
+  {% if page.covercaption %}
+    <p style="font-size:11px;text-align:center;">{{ page.covercaption }}</p>
+  {% endif %}
+
+  {% if page.link %}
+    <div style="text-align:center">
+    {% if page.linktext %}
+      <a href="{{ page.link }}" target="_blank">{{ page.linktext }}</a>
+    {% else %}
+      <a href="{{ page.link }}" target="_blank">{{ page.link }}</a>
+    {% endif %}
+    </div>
+  {% endif %}
+
   {{ content }}
 </div>
 
