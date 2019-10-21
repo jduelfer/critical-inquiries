@@ -97,14 +97,17 @@ keywords: Books, Novels, Reviews, Literature
 
   <h2>Recommended short stories</h2>
   <ul class="texts" style="padding-left: 15px;">
-    {% for item in site.texts reversed %}
+    {% assign sorted_pages = site.texts | sort: 'order' %}
+    {% for item in sorted_pages %}
       {% if item.type == "short-story" %}
-        <li class="text-title">
-          <a href="{{ site.baseurl }}{{ item.url }}" style="font-size: 20px;">
-            <i>{{ item.title }}</i> by {{ item.bookauthor }}
-          </a>
-          <p style="font-size: 16px">{{ item.description }}</p>
-        </li>
+        {% if item.recommended %}
+          <li class="text-title">
+            <a href="{{ site.baseurl }}{{ item.url }}" style="font-size: 20px;">
+              <i>{{ item.title }}</i> by {{ item.bookauthor }}
+            </a>
+            <p style="font-size: 16px">{{ item.description }}</p>
+          </li>
+        {% endif %}
       {% endif %}
     {% endfor %}
   </ul>

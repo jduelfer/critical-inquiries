@@ -10,6 +10,8 @@ description: Uncle Jim Called is a retrospection for those who have regrets over
 keywords: short story review fiction new yorker
 type: short-story
 comments: true
+recommended: true
+order: 3
 cover: uncle-jim-called.jpg
 covercaption: "Photo Illustration by Lucas Blalock: <i>The New Yorker's</i> cover photo."
 link: https://www.newyorker.com/magazine/2019/07/08/uncle-jim-called

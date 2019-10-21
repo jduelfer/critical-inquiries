@@ -10,6 +10,8 @@ description: Borderland is somber story about a writer in a post-apocalyptic wor
 keywords: Borderland, Olga Tokarczuk, Speculative Fiction, Short Story, review
 type: short-story
 comments: true
+recommended: true
+order: 1
 ---
 <hr/>
 
