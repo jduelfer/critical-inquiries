@@ -12,12 +12,14 @@ type: short-story
 comments: true
 recommended: true
 order: 1
+cover: borderland.jpg
+covercaption: Image taken from Granta
+link: https://granta.com/borderland/
+linktext: "Read online at Granta"
 ---
 <hr/>
 
 _Borderland_ is somber story that is brimming with emotion, teetering on the edge of collapsing into sadness and desperation at any moment. Tokarczuk is a master of plucking the emotional chords that run through us, making the reader truly feel part of the grim world that she has created. Her prose is direct and natural, making a complex setting easy to capture, though the reliance on religious symbology makes some points of the story hard to follow.
-
-The full story can be read for free [in Granta Magazine: https://granta.com/borderland/](https://granta.com/borderland/).
 
 <h2><strong>Design</strong></h2>
 The story takes the form of a single journal entry written by a guardian of the Borderland reflecting on events that took place before he learned to write. The writer lives in a garrison outpost on the Prut river in an unspecified region of Eastern Europe, sometime after the collapse of civilization. For this story, the term apocalyptic should be used hesitantly and should certainly not alienate any potential readers, as Tokarczuk brings a fresh perspective to this weathered theme. 
