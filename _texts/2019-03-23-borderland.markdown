@@ -8,7 +8,7 @@ date: 2019-03-23 19:00:00 -0400
 categories: fiction speculative apocalyptic
 description: Borderland is somber story about a writer in a post-apocalyptic world who is trying to make sense of the collapsing world around him.
 keywords: Borderland, Olga Tokarczuk, Speculative Fiction, Short Story, review
-type: short-story
+type: short story
 comments: true
 recommended: true
 order: 1

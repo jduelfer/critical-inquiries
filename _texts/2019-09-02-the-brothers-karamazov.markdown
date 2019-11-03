@@ -6,7 +6,7 @@ bookauthor: Fyodor Dostoevsky
 bookauthorurl: authors/fyodor-dostoevsky
 date: 2019-09-05 22:00:00 -0400
 categories: book
-description: The Brothers Karamazov is an immense novel buried beneath layers of disproportionate language and religious symbology that takes place in an unfamiliar 19th century Russian countryside. Though if the 21st century reader makes the effort to dive into its historical context and appreciate Dostoevsky's tough writing for what it is, a remarkable story emerges that explores the ethical and moral questions of injustice, hatred, love, and the fundamentals of human nature.
+description: The Brothers Karamazov is an immense novel that takes place in an unfamiliar 19th century Russian countryside. But if the 21st century reader makes the effort to dive into its historical context and Dostoevsky's tough writing, a remarkable story emerges that explores the ethical and moral questions of injustice, hatred, love, and the fundamentals of human nature.
 keywords: Karamazov russian literature review
 type: novel
 comments: true

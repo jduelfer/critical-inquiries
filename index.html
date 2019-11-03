@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: The Inquiring Reader
 author: Jon Duelfer
 description: Reviews about great books with a focus on innovative and creative ideas that help us understand the world we live in.
@@ -7,42 +7,61 @@ keywords: Books, Novels, Reviews, Literature
 ---
 <span id="postTitle" style="display:none">Home</span>
 <div class="toc">
-  <div class="flex-container">
-    <div class="double-section">
-      <h2 class="text-center">Recent reviews</h2>
-      <ul class="texts" style="border-right: 1px solid #eee;">
+
+  <div id="carouselExampleControls" class="carousel slide" data-interval="false">
+    <div class="carousel-inner">
+      <ol class="carousel-indicators">
         {% for item in site.texts reversed %}
           {% if forloop.index < 10 %}
             {% if item.isMeaningOfWriting == null %}
-            <li>
-              <a href="{{ site.baseurl }}{{ item.url }}" style="font-size: 16px;">
-                {{ item.title }}
-              </a>
-            </li>
+              {% if forloop.index == 1 %}
+                <li data-target="#carouselExampleIndicators" data-slide-to="{{ forloop.index }}" class="active"></li>
+              {% else %}
+                <li data-target="#carouselExampleIndicators" data-slide-to="{{ forloop.index }}"></li>
+              {% endif %}
             {% endif %}
           {% endif %}
         {% endfor %}
-      </ul>
-    </div>
-    <div class="double-section">
-      <h2 class="text-center">The Meaning of Writing</h2>
-      <ul class="texts">
-        <li>
-          <a href="{{ site.baseurl }}/meaning-of-writing" style="font-size: 16px;">
-            Introduction
-          </a>
-        </li>
-        {% for item in site.texts %}
-          {% if item.isMeaningOfWriting == true %}
-          <li>
-            <a href="{{ site.baseurl }}{{ item.url }}" style="font-size: 16px;">
-              {{ item.title }}
-            </a>
-          </li>
+      </ol>
+      {% for item in site.texts reversed %}
+        {% if forloop.index < 10 %}
+          {% if item.isMeaningOfWriting == null %}
+            {% if forloop.index == 1 %}
+              <div class="carousel-item active">
+            {% else %}
+              <div class="carousel-item">
+            {% endif %}
+                <div class="d-block w-100 p-2 bg-secondary text-white rounded">
+                  <div class="container">
+                    <div class="row recent-review" style="cursor:pointer;" onclick="document.location='{{site.baseurl}}{{item.url}}'">
+                      <div class="col-sm-8 col-xs">
+                        <div class="pl-2">
+                          <h2 style="color:white;padding:0px;margin:0px">{{ item.title }}</h2>
+                          <p style="line-height: 1rem;font-size:14px;margin-bottom:0px;">By: {{ item.bookauthor }}</p>
+                          <p style="line-height: 1rem;font-size:14px;margin-bottom:0px;">Posted: {{ item.date | date_to_string }}</p>
+                          <p style="line-height: 1rem;font-size:14px;">Type: {{ item.type }}</p>
+                          <p style="line-height: 1rem;font-size:16px;margin-bottom:5px;">{{ item.description }}</p>
+                        </div>
+                      </div>
+                      <div class="col-sm-4 col-xs text-center">
+                        <img class="rounded" style="max-height:250px;margin: auto;" src="/assets/img/{{ item.cover }}"/>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
           {% endif %}
-        {% endfor %}
-      </ul>
+        {% endif %}
+      {% endfor %}
     </div>
+    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
   </div>
 
   <h2>Recommended novels</h2>
@@ -51,7 +70,7 @@ keywords: Books, Novels, Reviews, Literature
     {% for item in sorted_pages %}
       {% if item.type == "novel" %}
         {% if item.recommended %}
-        <li class="text-title" style="list-style-type:none;padding-bottom: 10px;">
+        <li class="text-title" style="list-style-type:none;padding-bottom: 15px;">
           <div style="overflow: hidden;">
             <div style="float:left; margin-right: 10px;cursor: pointer;"
                  onclick="document.location='{{site.baseurl}}{{item.url}}'">
@@ -61,7 +80,7 @@ keywords: Books, Novels, Reviews, Literature
               <a href="{{ site.baseurl }}{{ item.url }}" style="font-size: 20px;">
                 <i>{{ item.title }}</i> by {{ item.bookauthor }}
               </a>
-              <p style="font-size: 16px">{{ item.description }}</p>
+              <p style="font-size: 16px;margin-bottom: 0px;">{{ item.description }}</p>
             </div>
           </div>
         </li>
@@ -74,9 +93,9 @@ keywords: Books, Novels, Reviews, Literature
   <ul class="texts" style="padding-left:0px;">
     {% assign sorted_pages = site.texts | sort: 'order' %}
     {% for item in sorted_pages %}
-      {% if item.type == "non-fiction" %}
+      {% if item.type == "nonfiction" %}
         {% if item.recommended %}
-        <li class="text-title" style="list-style-type:none;padding-bottom: 10px;">
+        <li class="text-title" style="list-style-type:none;padding-bottom: 15px;">
           <div style="overflow: hidden;">
             <div style="float:left; margin-right: 10px;cursor: pointer;"
                  onclick="document.location='{{site.baseurl}}{{item.url}}'">
@@ -86,7 +105,7 @@ keywords: Books, Novels, Reviews, Literature
               <a href="{{ site.baseurl }}{{ item.url }}" style="font-size: 20px;">
                 <i>{{ item.title }}</i> by {{ item.bookauthor }}
               </a>
-              <p style="font-size: 16px">{{ item.description }}</p>
+              <p style="font-size: 16px;margin-bottom: 0px;">{{ item.description }}</p>
             </div>
           </div>
         </li>
@@ -99,9 +118,9 @@ keywords: Books, Novels, Reviews, Literature
   <ul class="texts" style="padding-left: 0px;">
     {% assign sorted_pages = site.texts | sort: 'order' %}
     {% for item in sorted_pages %}
-      {% if item.type == "short-story" %}
+      {% if item.type == "short story" %}
         {% if item.recommended %}
-          <li class="text-title" style="list-style-type:none;padding-bottom: 10px;">
+          <li class="text-title" style="list-style-type:none;padding-bottom: 15px;">
             <div style="overflow: hidden;">
               <div style="float:left; margin-right: 10px;cursor: pointer;"
                   onclick="document.location='{{site.baseurl}}{{item.url}}'">
@@ -111,7 +130,7 @@ keywords: Books, Novels, Reviews, Literature
                 <a href="{{ site.baseurl }}{{ item.url }}" style="font-size: 20px;">
                   <i>{{ item.title }}</i> by {{ item.bookauthor }}
                 </a>
-                <p style="font-size: 16px">{{ item.description }}</p>
+                <p style="font-size: 16px;margin-bottom: 0px;">{{ item.description }}</p>
               </div>
             </div>
           </li>
@@ -119,7 +138,31 @@ keywords: Books, Novels, Reviews, Literature
       {% endif %}
     {% endfor %}
   </ul>
+
+  <h2>On Reading</h2>
+  <ul class="texts">
+    <li>
+      <a href="{{ site.baseurl }}/on-reading" style="font-size: 16px;">
+        Introduction
+      </a>
+    </li>
+    {% for item in site.texts %}
+      {% if item.isMeaningOfWriting == true %}
+      <li>
+        <a href="{{ site.baseurl }}{{ item.url }}" style="font-size: 16px;">
+          {{ item.title }}
+        </a>
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
 </div>
+
+<script>
+  $(document).ready(function() {
+    $('.carousel').carousel();
+  });
+</script>
 
 {% include tracking.html %}
 

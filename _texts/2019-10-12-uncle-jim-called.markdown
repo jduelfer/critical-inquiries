@@ -8,7 +8,7 @@ date: 2019-10-12 13:00:00 -0400
 categories: short-fiction
 description: Uncle Jim Called is a retrospection for those who have regrets over lost loved ones and a warning for those who will inevitably understand these feeling one day.
 keywords: short story review fiction new yorker
-type: short-story
+type: short story
 comments: true
 recommended: true
 order: 3

@@ -6,7 +6,7 @@ bookauthor: Cormac McCarthy
 bookauthorurl: authors/cormac-mccarthy
 date: 2019-10-31 21:00:00 -0400
 categories: book
-description: Blood Meridian is a harrowing, violent tale of a boy who joins a band of mercenaries hired to hunt and kill Apache Indians in northern Mexico and the southwestern United States. It is an epic novel, masterfully conceived from historical memoirs, that will haunt and inspire us both in its horror and in its beauty for ages to come.
+description: Blood Meridian is a harrowing, violent tale of a boy who joins a band of mercenaries hired to hunt and kill Apache Indians in northern Mexico and the southwestern United States. It is an epic novel conceived from historical memoirs that will haunt and inspire us both in its horror and in its beauty for ages to come.
 keywords: Blood Meridian review book fiction Cormac McCarthy
 type: novel
 comments: true

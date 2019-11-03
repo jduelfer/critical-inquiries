@@ -7,8 +7,8 @@ bookauthorurl: authors/hanif-kureishi
 date: 2019-10-21 19:00:00 -0400
 categories: short-fiction
 description: She Said He Said is a short, compact reflection on relationships that are soured by an unwelcome attempt at seduction. Kureishi's writing is brisk and to-the-point, focused entirely on providing the reader with only the essential details.
-keywords: short-story review fiction new yorker
-type: short-story
+keywords: short story review fiction new yorker
+type: short story
 recommended: true
 order: 2
 comments: true

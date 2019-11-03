@@ -5,10 +5,10 @@ title: What is an Author?
 bookauthor: Michel Foucault
 bookauthorurl: authors/michel-foucault
 date: 2019-05-18 12:00:00 -0400
-categories: non-fiction
+categories: nonfiction
 description: Michel Foucault writes that notable works of literature generate a form of discourse in which we may understand the world. In other words, specific pieces of writing open a space where people can discuss concepts under a common lens, with similar terminology and understanding. The form of discourse can only be understood by referring to the initial work from which the discourse originated.
 keywords: Author, Foucault
-type: non-fiction
+type: nonfiction
 isMeaningOfWriting: true
 comments: true
 cover: foucault.jpg
@@ -53,3 +53,8 @@ Foucault's historical analysis of the author-function as a “creator of discour
 > There was a time when the texts that we today call “literary” were accepted, put into circulation, and valorized without any question about the identity of their author; their anonymity caused no difficulties since their ancientness, whether real or imagined, was regarded as a sufficient guarantee of their status.
 
 His historical analysis culminates at the end of the essay to convey his negativity towards authors as bourgeois, capitalist policers of literature. It is a bold proposition, well articulated and analyzed, but with a number of good counterarguments. Regardless, _What is an Author?_ will certainly make you reconsider how you think about the proliferation of literature.
+
+<div>
+    <a href="{{ site.baseurl }}/on-reading" style="float:left;"><< Introduction</a>
+    <a href="{{ site.baseurl }}/texts/2019-09-22-hermeneutics/" style="float:right;">2. Hermeneutics >></a>
+</div>

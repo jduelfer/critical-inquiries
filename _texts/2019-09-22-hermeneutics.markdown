@@ -3,10 +3,10 @@ layout: narrative
 author: Jon Duelfer
 title: Hermeneutics - A Method of Reading
 date: 2019-09-22 19:00:00 -0400
-categories: non-fiction
+categories: nonfiction
 description: It might seem that understanding happens automatically and easily, but our interpretation of something can often lead us away from its real meaning.
 keywords: Hermeneutics
-type: non-fiction
+type: nonfiction
 isMeaningOfWriting: true
 comments: true
 thoughtarticle: true

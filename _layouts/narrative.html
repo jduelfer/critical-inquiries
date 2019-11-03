@@ -8,6 +8,9 @@ layout: default
     <p class="citation" style="margin-bottom:0px;"><i>by</i> 
     <a href="/{{ page.bookauthorurl }}">{{ page.bookauthor }}</a></p>
   {% endif %}
+  {% if page.isMeaningOfWriting %}
+      <p class="citation" style="margin-bottom:0px;"><i>part of the <a href="/on-reading">On Reading</a> series</i></p>
+  {% endif %}
   {% if page.thoughtarticle %}
     <p class="citation"><i>written by</i> {{ page.author }}</p>
   {% else %}

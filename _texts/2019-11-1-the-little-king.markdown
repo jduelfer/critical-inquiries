@@ -7,8 +7,8 @@ bookauthorurl: authors/salman-rushdie
 date: 2019-11-01 19:00:00 -0400
 categories: short-fiction
 description: The Little King is an ironic, comical, and disheartening story of two cousins associated with the current Opioid epidemic. It explores greed, corruption, and the justification that some people feel while committing questionable acts for personal profit.
-keywords: short-story the little king review fiction the new yorker
-type: short-story
+keywords: short story the little king review fiction the new yorker
+type: short story
 recommended: true
 order: 3
 comments: true

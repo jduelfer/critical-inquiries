@@ -5,10 +5,10 @@ title: "Postwar: A History of Europe Since 1945"
 bookauthor: Tony Judt
 bookauthorurl: authors/tony-judt
 date: 2019-03-25 19:00:00 -0400
-categories: non-fiction history european
+categories: nonfiction history european
 description: Postwar is an awe-inspiring history of the European community rebuilt from the remnants of World War II. It plunges into the horrendous regimes of postwar dictators, perilous revolutions led by university students, and viscous wars that both tore down and gave birth to new nations.
-keywords: Postwar, Tony Judt, book, review, history, Europe, World War II, European history, modern Europe, book review, non-fiction
-type: non-fiction
+keywords: Postwar, Tony Judt, book, review, history, Europe, World War II, European history, modern Europe, book review, nonfiction
+type: nonfiction
 cover: postwar-cover.jpg
 order: 1
 recommended: true
