@@ -48,3 +48,7 @@ Meaning is elusive and not as easy as it seems to pin down. The hermeneutic appr
 - [https://plato.stanford.edu/entries/hermeneutics/](https://plato.stanford.edu/entries/hermeneutics/)
 - [https://plato.stanford.edu/entries/schleiermacher/#HermIeTheoInte](https://plato.stanford.edu/entries/schleiermacher/#HermIeTheoInte)
 - [https://oyc.yale.edu/english/engl-300/lecture-3](https://oyc.yale.edu/english/engl-300/lecture-3)
+
+<div>
+    <a href="{{ site.baseurl }}/texts/2019-05-18-what-is-an-author/" style="float:left;"><< 1. What Is An Author?</a>
+</div>
