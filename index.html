@@ -31,16 +31,16 @@ keywords: Books, Novels, Reviews, Literature
             {% else %}
               <div class="carousel-item">
             {% endif %}
-                <div class="d-block w-100 p-2 bg-secondary text-white rounded">
+                <div class="d-block w-100 py-4 bg-secondary text-white">
                   <div class="container">
                     <div class="row recent-review" style="cursor:pointer;" onclick="document.location='{{site.baseurl}}{{item.url}}'">
                       <div class="col-sm-8 col-xs">
                         <div class="pl-2">
                           <h2 style="color:white;padding:0px;margin:0px">{{ item.title }}</h2>
                           <p style="line-height: 1rem;font-size:14px;margin-bottom:0px;">By: {{ item.bookauthor }}</p>
-                          <p style="line-height: 1rem;font-size:14px;margin-bottom:0px;">Posted: {{ item.date | date_to_string }}</p>
+                          <p style="line-height: 1rem;font-size:14px;margin-bottom:0px;">Reviewed: {{ item.date | date_to_string }}</p>
                           <p style="line-height: 1rem;font-size:14px;">Type: {{ item.type }}</p>
-                          <p style="line-height: 1rem;font-size:16px;margin-bottom:5px;">{{ item.description }}</p>
+                          <p style="line-height: 1rem;font-size:16px;">{{ item.description }}</p>
                         </div>
                       </div>
                       <div class="col-sm-4 col-xs text-center">
@@ -64,6 +64,7 @@ keywords: Books, Novels, Reviews, Literature
     </a>
   </div>
 
+  <div class="home-container">
   <h2>Recommended novels</h2>
   <ul class="texts" style="padding-left:0px;">
     {% assign sorted_pages = site.texts | sort: 'order' %}
@@ -156,6 +157,7 @@ keywords: Books, Novels, Reviews, Literature
       {% endif %}
     {% endfor %}
   </ul>
+</div>
 </div>
 
 <script>
