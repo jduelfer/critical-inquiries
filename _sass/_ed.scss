@@ -193,7 +193,8 @@ blockquote {
 	margin: 0 0 20px 0; 
   color: $text-color;
 	border-left: none;
-	font-style: italic;
+  font-style: italic;
+  font-size: 15px;
 }
 
 blockquote p:last-child {
