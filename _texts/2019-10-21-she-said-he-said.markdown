@@ -10,7 +10,7 @@ description: She Said He Said is a short, compact reflection on relationships th
 keywords: short story review fiction new yorker
 type: short story
 recommended: true
-order: 2
+order: 4
 comments: true
 cover: he-said-she-said.jpg
 covercaption: "Illustration by Na Kim; Photograph by Curtis Johnson: <i>The New Yorker's</i> cover photo."

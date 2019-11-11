@@ -10,7 +10,7 @@ description: The Little King is an ironic, comical, and disheartening story of t
 keywords: short story the little king review fiction the new yorker
 type: short story
 recommended: true
-order: 3
+order: 5
 comments: true
 cover: the-little-king.jpg
 covercaption: Illustration by Nico Schweizer

@@ -1,0 +1,18 @@
+---
+layout: narrative
+title: Joyce Carol Oates
+comments: true
+---
+<hr/>
+<ul class="texts" style="padding-left: 15px;">
+{% for item in site.texts reversed %}
+    {% if item.bookauthor == "Joyce Carol Oates" %}
+    <li class="text-title">
+        <a href="{{ site.baseurl }}{{ item.url }}" style="font-size: 20px;">
+        <i>{{ item.title }}</i>
+        </a>
+        <p style="font-size: 16px">{{ item.description }}</p>
+    </li>
+    {% endif %}
+{% endfor %}
+</ul>
