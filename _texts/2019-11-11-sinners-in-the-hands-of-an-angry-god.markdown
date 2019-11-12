@@ -6,7 +6,7 @@ bookauthor: Joyce Carol Oates
 bookauthorurl: authors/joyce-carol-oates
 date: 2019-11-11 12:00:00 -0400
 categories: short-fiction
-description: Sinners in the Hands of an Angry God looks at what is important to us when faced with uncertainty and destruction. It is a vivid story of environmental collapse in the near future, filled with sadness, anxiety, beauty, and relief.
+description: Sinners in the Hands of an Angry God looks at what is important to us when faced with uncertainty and destruction. It is a vivid story of environmental collapse in the near future, filled with despair, anxiety, beauty, and relief.
 keywords: short story sinners in the hands of an angry god review fiction the new yorker
 type: short story
 recommended: true
@@ -53,4 +53,4 @@ Luce realizes that music is her redemption, her release from this world.
 Through her music, she releases her anxiety and communicates with Andrew in a way she never could have with words.
 
 <h2><strong>Final Thoughts</strong></h2>
-_Sinners in the Hands of an Angry God_ is a vivid story of uncertainty, anxiety, sadness, beauty, and relief. I have heard of Joyce Carol Oates many times, but have never had the chance to read her work. Her witty comments, sly humor, and imaginative storytelling will certainly push me to discover what else she has to offer.
+_Sinners in the Hands of an Angry God_ is a vivid story of uncertainty, anxiety, despair, beauty, and relief. I have heard of Joyce Carol Oates many times, but have never had the chance to read her work. Her witty comments, sly humor, and imaginative storytelling will certainly push me to discover what else she has to offer.
