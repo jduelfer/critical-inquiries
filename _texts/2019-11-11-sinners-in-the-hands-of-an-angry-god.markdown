@@ -6,7 +6,7 @@ bookauthor: Joyce Carol Oates
 bookauthorurl: authors/joyce-carol-oates
 date: 2019-11-11 12:00:00 -0400
 categories: short-fiction
-description: Sinners in the Hands of an Angry God looks at what is important to us when faced with uncertainty and destruction. It is a vivid story of environmental collapse in the near future, filled with uncertainty, anxiety, sadness, beauty, and relief.
+description: Sinners in the Hands of an Angry God looks at what is important to us when faced with uncertainty and destruction. It is a vivid story of environmental collapse in the near future, filled with sadness, anxiety, beauty, and relief.
 keywords: short story sinners in the hands of an angry god review fiction the new yorker
 type: short story
 recommended: true
