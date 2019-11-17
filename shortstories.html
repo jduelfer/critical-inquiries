@@ -1,0 +1,52 @@
+---
+layout: home
+title: Short Stories
+comments: true
+description: Our ranking of the best short stories. 
+keywords: best books top short story ranking
+sidebar: true
+sidebarorder: 4
+---
+<div class="home-container" style="padding-top:2rem;">
+
+<h2>All Reviewed Short Stories</h2>
+<p>Unit of measurement: elephants per square pasta (we do the best we can).</p>
+<hr/>
+
+
+<ul class="texts" style="padding-left:0px;">
+{% assign scored_items = site.texts | sort: "score" %}
+{% for item in scored_items reversed %}
+    {% if item.type == "short story" %}
+    <li class="text-title" style="list-style-type:none;padding-bottom: 15px;">
+        <div style="overflow: hidden;">
+        <div style="float:left;">
+            {% if item.score >= 90 %}
+                <p class="text-success" style="font-size: 30px;margin-right:10px;margin-top:25px">{{ item.score }}</p>
+            {% else %}
+                {% if item.score < 75 %}
+                <p class="text-warning" style="font-size: 30px;margin-right:10px;margin-top:25px">{{ item.score }}</p>
+                {% else %}
+                    <p style="font-size: 30px;margin-right:10px;margin-top:25px">{{ item.score }}</p>
+                {% endif %}
+            {% endif %}
+        </div>
+        <div style="float:left; margin-right: 10px;cursor: pointer;"
+                onclick="document.location='{{site.baseurl}}{{item.url}}'">
+            <img width="65px" src="{{ site.basurl }}/assets/img/{{ item.cover }}"/>
+        </div>
+        <div>
+            <a href="{{ site.baseurl }}{{ item.url }}" style="font-size: 20px;">
+            <i>{{ item.title }}</i> by {{ item.bookauthor }}
+            </a>
+            <p style="font-size: 16px;margin-bottom: 0px;">{{ item.description }}</p>
+        </div>
+        </div>
+    </li>
+    {% endif %}
+{% endfor %}
+</ul>
+
+{% include tracking.html %}
+{% include disqus.html %}
+</div>

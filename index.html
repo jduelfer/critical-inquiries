@@ -66,7 +66,7 @@ keywords: Books, Novels, Reviews, Literature
 
   <div class="home-container">
   <h2>Recommended novels</h2>
-  <ul class="texts" style="padding-left:0px;">
+  <ul class="texts" style="padding-left:0px;margin-bottom:0px">
     {% assign sorted_pages = site.texts | sort: 'order' %}
     {% for item in sorted_pages %}
       {% if item.type == "novel" %}
@@ -89,9 +89,15 @@ keywords: Books, Novels, Reviews, Literature
       {% endif %}
     {% endfor %}
   </ul>
+  <div class="text-center">
+    <button class="btn btn-outline-danger brand-button" type="button"
+            onclick="document.location='{{site.baseurl}}/novels'">
+      See all novels
+    </button>
+  </div>
 
   <h2>Recommended nonfiction</h2>
-  <ul class="texts" style="padding-left:0px;">
+  <ul class="texts" style="padding-left:0px;margin-bottom:0px;">
     {% assign sorted_pages = site.texts | sort: 'order' %}
     {% for item in sorted_pages %}
       {% if item.type == "nonfiction" %}
@@ -114,9 +120,15 @@ keywords: Books, Novels, Reviews, Literature
       {% endif %}
     {% endfor %}
   </ul>
+  <div class="text-center">
+    <button class="btn btn-outline-danger brand-button" type="button"
+            onclick="document.location='{{site.baseurl}}/nonfiction'">
+      See all nonfiction
+    </button>
+  </div>
 
   <h2>Recommended short stories</h2>
-  <ul class="texts" style="padding-left: 0px;">
+  <ul class="texts" style="padding-left: 0px;margin-bottom:0px;">
     {% assign sorted_pages = site.texts | sort: 'order' %}
     {% for item in sorted_pages %}
       {% if item.type == "short story" %}
@@ -139,6 +151,12 @@ keywords: Books, Novels, Reviews, Literature
       {% endif %}
     {% endfor %}
   </ul>
+  <div class="text-center">
+    <button class="btn btn-outline-danger brand-button" type="button"
+            onclick="document.location='{{site.baseurl}}/shortstories'">
+      See all short stories
+    </button>
+  </div>
 
   <h2>On Reading</h2>
   <ul class="texts">

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+sidebarorder: 7
 ---
 
 This website is for anybody looking to find and discuss writing they are interested in. There are a lot of crowd-based review websites on the internet that will tell you how _good_ or _bad_ something is; what these sites lack is a way to easily discover what you will like. When the amount of choices is so large, it’s difficult to narrow them down and actually decide on something to dedicate your free time on.

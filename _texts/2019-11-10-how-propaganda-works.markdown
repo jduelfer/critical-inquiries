@@ -14,6 +14,8 @@ recommended: true
 order: 2
 cover: how-propaganda-works.jpg
 covercaption: Source <a href="https://jason-stanley.com/book/how-propaganda-works/">https://jason-stanley.com/book/how-propaganda-works/</a>
+score: 84
+isbook: true
 ---
 <hr/>
 

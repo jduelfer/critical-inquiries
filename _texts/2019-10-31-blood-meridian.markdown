@@ -14,6 +14,7 @@ recommended: true
 order: 1
 cover: blood-meridian.jpg
 covercaption: By Source, Fair use, <a href="https://en.wikipedia.org/w/index.php?curid=11780960">https://en.wikipedia.org/w/index.php?curid=11780960</a>
+score: 90
 ---
 <hr/>
 

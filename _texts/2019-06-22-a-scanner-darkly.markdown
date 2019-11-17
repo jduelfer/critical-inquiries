@@ -12,6 +12,7 @@ type: novel
 recommended: false
 comments: true
 cover: scanner-darkly.jpg
+score: 78
 ---
 <p style="font-size: 11px; text-align:center;">By Source, <a href="//en.wikipedia.org/wiki/File:AScannerDarkly(1stEd).jpg" title="Fair use of copyrighted material in the context of A Scanner Darkly">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=9067068">Link</a></p>
 <hr/>

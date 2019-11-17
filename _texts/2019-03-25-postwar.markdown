@@ -13,6 +13,8 @@ cover: postwar-cover.jpg
 order: 1
 recommended: true
 comments: true
+score: 89
+isbook: true
 ---
 <hr/>
 

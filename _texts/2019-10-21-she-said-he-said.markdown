@@ -16,6 +16,7 @@ cover: he-said-she-said.jpg
 covercaption: "Illustration by Na Kim; Photograph by Curtis Johnson: <i>The New Yorker's</i> cover photo."
 link: https://www.newyorker.com/magazine/2019/07/22/she-said-he-said
 linktext: "Read online at the New Yorker"
+score: 74
 ---
 <hr/>
 

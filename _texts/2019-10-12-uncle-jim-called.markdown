@@ -16,6 +16,7 @@ cover: uncle-jim-called.jpg
 covercaption: "Photo Illustration by Lucas Blalock: <i>The New Yorker's</i> cover photo."
 link: https://www.newyorker.com/magazine/2019/07/08/uncle-jim-called
 linktext: "Read online at the New Yorker"
+score: 78
 ---
 <hr/>
 

@@ -13,6 +13,7 @@ cover: hyperion-cover.jpg
 order: 4
 recommended: true
 comments: true
+score: 80
 ---
 <hr/>
 

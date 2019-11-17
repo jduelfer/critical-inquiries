@@ -13,6 +13,7 @@ cover: left-hand-of-darkness-cover.jpg
 order: 3
 recommended: true
 comments: true
+score: 85
 ---
 <hr/>
 

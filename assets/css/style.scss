@@ -82,4 +82,13 @@ $app-media-xs: 767px;
   margin-bottom: 0px !important;
 }
 
+.brand-button {
+  color: $link-color;
+  border-color: $link-color;
+}
+
+.brand-button:hover, .brand-button:focus, .brand-button:active, .brand-button.active, .open>.dropdown-toggle.brand-button {
+  background: $link-color;
+  border-color: $link-color;
+}
 

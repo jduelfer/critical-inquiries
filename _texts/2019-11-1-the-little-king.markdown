@@ -16,6 +16,7 @@ cover: the-little-king.jpg
 covercaption: Illustration by Nico Schweizer
 link: https://www.newyorker.com/magazine/2019/07/29/the-little-king
 linktext: "Read online at the New Yorker"
+score: 75
 ---
 <hr/>
 

@@ -11,6 +11,11 @@ keywords: Bringing Down the Sky, Alan Bao, Speculative Fiction, Short Story, rev
 type: short story
 comments: true
 recommended: false
+score: 65
+cover: clarkesworld-147.jpg
+covercaption: "Cover from Clarkesworld Magazine Issue #147"
+link: http://clarkesworldmagazine.com/bao_12_18/
+linktext: "Read online at Clarkesworld"
 ---
 <hr/>
 

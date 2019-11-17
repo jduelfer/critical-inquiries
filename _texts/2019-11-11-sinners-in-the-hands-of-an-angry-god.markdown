@@ -16,6 +16,7 @@ cover: sinners-in-the-hands-of-an-angry-god.jpg
 covercaption: Illustration by Na Kim
 link: https://www.newyorker.com/magazine/2019/10/14/sinners-in-the-hands-of-an-angry-god
 linktext: "Read online at The New Yorker"
+score: 84
 ---
 <hr/>
 

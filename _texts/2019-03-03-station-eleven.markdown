@@ -12,6 +12,7 @@ type: novel
 cover: station-eleven-cover.jpg
 recommended: false
 comments: true
+score: 70
 ---
 <hr/>
 

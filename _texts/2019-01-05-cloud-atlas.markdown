@@ -13,6 +13,7 @@ cover: cloud-atlas-cover.jpg
 order: 2
 recommended: true
 comments: true
+score: 81
 ---
 <hr/>
 
