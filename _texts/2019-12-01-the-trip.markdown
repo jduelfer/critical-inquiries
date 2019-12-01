@@ -1,0 +1,34 @@
+---
+layout: narrative
+author: Jon Duelfer
+title: The Trip
+bookauthor: Weike Wang
+bookauthorurl: authors/weike-wang
+date: 2019-12-01 13:00:00 -0400
+categories: short-fiction
+description: A playful, yet deeply emotional reflection on intercultural relationships. A man follows his wife to China to meet her extended family and watches as she forms her identity and immerses herself in her native culture – all the while growing further and futher apart from one another.
+keywords: the trip review fiction the new yorker short story
+type: short story
+recommended: true
+order: 3
+comments: true
+cover: the-trip.jpg
+covercaption: Illustration by Jee-ook Choi
+link: https://www.newyorker.com/magazine/2019/11/18/the-trip
+linktext: "Read online at The New Yorker"
+score: 81
+---
+<hr/>
+
+_The Trip_ is a playful, yet deeply emotional reflection on intercultural relationships. The cadence of Weike Wang's writing allows her to seamlessly layer thoughtful observations onto the natural flow of the story, turning mundane telephone calls or casual conversations with family into insightful commentaries. She gives voice to the concerns, distress, and anxiety that comes along with intercultural relationships and contemplates what they might mean to one's identity.
+
+> Her parents, divorced, said, on separate calls, We want your first husband to see China and have good memories from there and sample its regional foods and see the warmth of its people and not hate us civilians should our two great nations ever partake in nuclear war. At least, that was what his wife said she had translated, then paraphrased.
+
+As shown above, Wang's prose is unusual, contains many abrupt breaks mid-sentence, and displays dialogue undelimited by quotation marks or paragraphs – similar to [Cormac McCarthy's _Blood Meridian_](/texts/2019-10-31-blood-meridian/). Through this unorthodox style, Wang tells the story of a man who follows his wife to China to meet her extended family.
+
+The man's mother keeps calling; she tells him about people from his small town and asks if he remembers So-and-So. He recalls holidays with his mother and how she made his wife uncomfortable. He struggles with his identify and how it relates to his wife's native culture.
+
+Meanwhile, the man's wife is growing closer to her extended family and native culture – a culture she is re-experiencing since she emigrated to the United States when she was a child. Her cousin says that her “_Chinese was like that of a toddler_,” so she pushes herself to speak more. She stops roughly translating everything for her husband and begins immersing herself in her relatives' lives. She distances herself from her husband, resenting him for his _Americanness_ as she struggles with her own identity.
+
+<h2><strong>Final Thoughts</strong></h2>
+_The Trip_ is concerned with the cultural gaps that may separate modern relationships. Wang writes with clarity and emotion – all through an unconventional style that conveys the man's foreign experiences. The story is concise and very insightful for anybody who has experienced relationships across cultures, race, or class. Published in a late November issue of _The New Yorker_, it is a wonderful read for the holiday season.

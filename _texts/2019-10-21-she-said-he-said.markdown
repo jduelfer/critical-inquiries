@@ -9,14 +9,13 @@ categories: short-fiction
 description: She Said He Said is a short, compact reflection on relationships that are soured by an unwelcome attempt at seduction. Kureishi's writing is brisk and to-the-point, focused entirely on providing the reader with only the essential details.
 keywords: short story review fiction new yorker
 type: short story
-recommended: true
-order: 4
+recommended: false
 comments: true
 cover: he-said-she-said.jpg
 covercaption: "Illustration by Na Kim; Photograph by Curtis Johnson: <i>The New Yorker's</i> cover photo."
 link: https://www.newyorker.com/magazine/2019/07/22/she-said-he-said
 linktext: "Read online at the New Yorker"
-score: 74
+score: 73
 ---
 <hr/>
 

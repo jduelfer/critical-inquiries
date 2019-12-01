@@ -92,3 +92,9 @@ $app-media-xs: 767px;
   border-color: $link-color;
 }
 
+@media (max-width: 575px) {
+  .carousel-background {
+    min-height: 35rem;
+  }
+}
+
