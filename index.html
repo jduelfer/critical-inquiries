@@ -44,7 +44,11 @@ keywords: Books, Novels, Reviews, Literature
                         </div>
                       </div>
                       <div class="col-sm-4 col-xs text-center">
-                        <img class="rounded" style="max-height:250px;margin: auto;" src="/assets/img/{{ item.cover }}"/>
+                        {% if item.hasWhiteBackground %}
+                          <img class="rounded" style="max-height:250px;margin: auto;background-color:white;" src="/assets/img/{{ item.cover }}"/>
+                        {% else %}
+                          <img class="rounded" style="max-height:250px;margin: auto;" src="/assets/img/{{ item.cover }}"/>
+                        {% endif %}
                       </div>
                     </div>
                   </div>
