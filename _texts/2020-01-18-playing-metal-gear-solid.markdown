@@ -6,7 +6,7 @@ bookauthor: Jamil Jan Kochai
 bookauthorurl: authors/jamil-jan-kochai
 date: 2020-01-18 16:00:00 -0400
 categories: short-fiction
-description: "In <i>Playing Metal Gear Solid V: The Phantom Pain</i>, Jamil Jan Kochai questions the morality of war-based video games set in Afghanistan. These games don’t represent some idealism of the past, they represent a deep-rooted, neo-imperialistic ideology under which young Americans are being indoctrinated."
+description: "In <i>Playing Metal Gear Solid V: The Phantom Pain</i>, Jamil Jan Kochai questions the morality of war-based video games. These games don’t represent some idealism of the past, they represent a deep-rooted, neo-imperialistic ideology under which young Americans are being indoctrinated."
 keywords: Playing Metal Gear Solid V The Phantom Pain jamil jan kochai review fiction the new yorker short story
 type: short story
 recommended: true

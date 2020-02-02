@@ -1,0 +1,79 @@
+---
+layout: narrative
+author: Jon Duelfer
+title: Flights
+bookauthor: Olga Tokarczuk
+bookauthorurl: authors/olga-tokarczuk
+date: 2020-02-02 15:00:00 -0400
+categories: book
+description: Different moments in time hang in space like sheets, like screens lit up by one moment; the world is made up of these frozen moments, great meta-images, and we just hop from one to the next.
+type: novel
+comments: true
+recommended: true
+order: 4
+cover: flights.jpg
+score: 80
+---
+<hr/>
+
+> Different moments in time hang in space like sheets, like screens lit up by one moment; the world is made up of these frozen moments, great meta-images, and we just hop from one to the next.
+
+Olga Tokarczuk’s _Flights_, translated masterfully by Jennifer Croft, weaves together memories, observations, and stories to explore what it means to live and travel in the modern world. Each chapter – or fragment – contemplates an aspect of life that seems normal or rudimentary, but when looked at with a critical eye, reveals the deep complexity of human nature.
+
+<h2><strong>Structure</strong></h2>
+The fragments that make up _Flights_ can span from a single sentence to the length of a novella. They may be tales retold by the narrator, observations, or opinions on most anything. They are strung together by a loosely defined subject, never bound by time or place. A painting may lead us into a story of the distant past or even transport us across the globe.
+
+This structure is ambitious, both for the writer and the reader. Personally, my mood heavily influenced how I read different parts of the book. If I was active and attentive, I would see connections and themes between fragments. If I was relaxed and passive, I let the book take me along its emotional journeys. There are probably an infinite number of ways to read and interpret this book, but Tokarczuk’s wit and clarity will stay constant for every reader.
+
+<h2><strong>Contemplation</strong></h2>
+> Standing there on the embankment, staring into the current, I realized that – in spite of all the risks involved – a thing in motion will always be better than a thing at rest; that change will always be a nobler thing than permanence; that that which is static will degenerate and decay, turn to ash, while that which is in motion is able to last for all eternity.
+
+Each fragment is a contemplation – or meditation – on a set of themes. Some approach philosophy, but most are fluid and artistic and fit well into fiction. Tokarczuk doesn’t want to tell us how to think; she wants to show us what she observes in the world through stories. She wants to show us that there’s a world out there that exists outside of ourselves, and that only through travel and observation of others – who live vastly different lives – can we get an understanding of what our own lives mean.
+
+> And then the vacations, their timid tourism, their [car] packed to the gills. Endlessly prepared for, planned in the evenings in the early spring when the snow had all but stopped, though the ground had yet to come back to its senses; you had to wait until it finally gave itself to plow and hoe, when you could plant in it again, and from that moment forward it would take up all their time, from morning to eve.
+
+We work each day, week, and month and slowly save our money to go on a vacation – for what, two or three times a year? Compared with the entirety of our lives, these trip are insignificant, but occupy such an important place in our minds.
+> What does “We were there” really even mean? Where did those two weeks in France go? Those weeks that today can squeeze into just a couple of memories…
+
+It hasn’t always been easy for us to travel. In recent years, cheap airlines have taken over the market and have provided the average person with the means to jump across the globe.
+> Had these passengers just got one of those cheap flights, they would have been there in an hour, and it would have cost them less money, too. They would have had a night in the arms of their longing lovers, breakfast at one of the restaurants on rue je-ne-sais-quoi, where oysters are served. An evening Mozart concert at a cathedral. A walk along the riverbanks. Instead they must fully surrender to the time taken by rail travel, must personally traverse every kilometer according to the age-old custom of their ancestors, go over every bridge and through each viaduct and tunnel on this voyage over land. Nothing can be skipped, nothing bypassed. Every millimeter of the way will be touched by the wheel, will for an instant be part of its tangent, and this will be an unrepeatable configuration for all time – of the wheel and the rail, of the time and place, unique throughout the cosmos.
+
+Although modernity has brought great advances to the common person, these advances wreck havoc on the natural world around us.
+> I met her at the Stockholm airport, the only one in the world with wood floors: a pretty, dark oak parquet with carefully matched slats – a low estimate would put it at about ten acres of northern woods.
+
+Tokarczuk wants us to contemplate these ideas. With what we have today, how is it compared with what generations before us used to have? Is it good or bad in the long run? She hints that maybe we have overstepped ourselves in some realms and need to take a step back and breathe. But in general she has an interest in the world, both the human and natural, that can only be discovered through traveling.
+
+<h2><strong>Longer Stories</strong></h2>
+While Tokarczuk’s meditations are both witty and deeply contemplative, they could not make a novel. Smaller fragments revolve around larger ones that truly show Tokarczuk’s masterful writing. They are beautiful, gripping, and filled with complex characters.
+
+<h4>Kunicki</h4>
+In a series of chapters titled “Kunicki,” a man is on vacation with his wife and child on an island off the coast of Croatia. While driving down the road, the child has to use the restroom, so he parks the car and his wife and child scurry into the nearby vineyard. He loses sight of them, and after awhile, they don’t come back. He searches and searches for them, enlisting the help of the island’s residents and police. They can’t find them. He struggles with his anxiety as days pass with no sign of his family.
+
+This story – broken up into three chapters in the beginning, middle, and end of the novel – was for me, the strongest story and could have been a novella in and of itself. The local police says that it doesn’t make sense that they can’t find his family since the island is so small and begin to accuse the father.
+
+<h4>Ash Wednesday Feast</h4>
+In a single chapter titled “Ash Wednesday Feast,” an immigrant leaves his country in search of work. Even though he is well-educated, he finds a job as a sailor to travel the globe. He travels and travels but can never find what he is looking for. He fights depression while searching for meaning in his life until his depression brings him to a startling climax.
+
+<h2><strong>Writing</strong></h2>
+Tokarczuk’s writing, elegantly transformed into English by Croft, shines throughout the novel.
+> The train stops in fields and stands in their nocturnal fogs, a quite hotel on wheels. There’s no sense in trying to race the night.
+
+I love the use of _opalescent_ in the following sentence.
+> A motorcycle lay on the ground, and near it a pool of gasoline turning opalescent.
+
+The use of _the desert lavishes_...
+> At first the desert lavishes them with lengthy shadows slipping from dune to dune, leaving a trail visible only to the initiated eye.
+
+In contemplating an amputee’s leg, she compare’s the removal of the piece to the world as a whole: 
+> If the world, like a great glass orb, falls and shatters into a million pieces – doesn’t something great, powerful, and infinite remain a whole in this?
+
+Fragments can also be very witty:
+> At the airport, a big ad on the glass wall all-knowingly asserts:<br/>
+МОБИЛЬНОСТЬ СТАНОВИТСЯ РЕАЛЬОСТЮ<br/>
+Mobility is reality.<br/>
+Let us stress that this is merely an add for mobile phones.
+
+<h2><strong>Final Thoughts</strong></h2>
+It is no surprise that _Flights_ won the [Man Booker International Prize](https://en.wikipedia.org/wiki/Man_Booker_International_Prize). I highly recommend the novel for anybody willing to take a chance and dive into Tokarczuk's exploratory structure. For anybody who is still on the edge, I leave the narrator's reason for writing in contemplative fragments:
+
+> Am I doing the right thing by telling stories? Wouldn’t it be better to fasten the mind with a clip, tighten the reins, and express myself not by means of stories and histories, but with the simplicity of a lecture, where in each sentence after sentence a single thought gets clarified, and then others are tacked onto it in the succeeding paragraphs? I could use quotes and footnotes, I could in the order of points of chapters reap the consequences of demonstrating step by step what it is I mean; I would verify an aforementioned hypothesis and ultimately be able to carry off my arguments like sheets after a wedding night, in an honest per-word payment for it. As it is I’m taking on the role of midwife, or of the tender of a garden whose only merit is at best sowing seeds and later to fight tediously against weeds. Tales have a kind of inherent inertia that is never possible to fully control. They require people like me – insecure, indecisive, easily led astray. Naive.
