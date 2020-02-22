@@ -51,4 +51,5 @@ Meaning is elusive and not as easy as it seems to pin down. The hermeneutic appr
 
 <div>
     <a href="{{ site.baseurl }}/texts/2019-05-18-what-is-an-author/" style="float:left;"><< 1. What Is An Author?</a>
+    <a href="{{ site.baseurl }}/texts/2020-02-22-the-intentional-fallacy/" style="float:right;">4. The Intentional Fallacy >></a>
 </div>
