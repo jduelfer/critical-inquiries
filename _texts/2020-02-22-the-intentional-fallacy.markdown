@@ -4,8 +4,8 @@ author: Jon Duelfer
 title: The Intentional Fallacy
 date: 2020-02-22 17:00:00 -0400
 categories: nonfiction
-description: Wimsatt and Beardsley argue that the success of a poem should be judged based on the realization of meaning, 
-keywords: Hermeneutics
+description: Wimsatt and Beardsley argue that the success of a poem should be judged based on the realization of meaning, not an author's intentions.
+keywords: Intentional Fallacy Wimsatt Beardsley New Critics
 type: nonfiction
 isMeaningOfWriting: true
 comments: true
