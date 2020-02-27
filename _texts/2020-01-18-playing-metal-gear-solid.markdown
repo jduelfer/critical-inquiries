@@ -10,7 +10,7 @@ description: "In <i>Playing Metal Gear Solid V: The Phantom Pain</i>, Jamil Jan 
 keywords: Playing Metal Gear Solid V The Phantom Pain jamil jan kochai review fiction the new yorker short story
 type: short story
 recommended: true
-order: 4
+order: 3
 comments: true
 cover: metal-gear.png
 covercaption: Illustration by Max Guther
