@@ -9,8 +9,7 @@ categories: short-fiction
 description: The Little King is an ironic, comical, and disheartening story of two cousins associated with the current Opioid epidemic. It explores greed, corruption, and the justification that some people feel while committing questionable acts for personal profit.
 keywords: short story the little king review fiction the new yorker
 type: short story
-recommended: true
-order: 8
+recommended: false
 comments: true
 cover: the-little-king.jpg
 covercaption: Illustration by Nico Schweizer

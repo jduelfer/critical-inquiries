@@ -10,7 +10,7 @@ description: In the dark and dismal streets of pre-war Paris, France, a young gi
 keywords: The Lost Performance of the High Priestess of the Temple of Horror carmen maria machado review fiction short story granta
 type: short story
 recommended: true
-order: 5
+order: 6
 comments: true
 cover: lost-performance.jpg
 covercaption:

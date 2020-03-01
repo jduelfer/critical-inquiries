@@ -16,7 +16,7 @@ cover: borderland.jpg
 covercaption: Image taken from Granta
 link: https://granta.com/borderland/
 linktext: "Read online at Granta"
-score: 90
+score: 91
 ---
 <hr/>
 
