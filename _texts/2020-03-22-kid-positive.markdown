@@ -1,7 +1,7 @@
 ---
 layout: narrative
 author: Jon Duelfer
-title: Kid Positve
+title: Kid Positive
 bookauthor: Adam Levin
 bookauthorurl: authors/adam-levin
 date: 2020-03-22 19:00:00 -0400
