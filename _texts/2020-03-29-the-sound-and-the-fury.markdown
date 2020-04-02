@@ -7,6 +7,7 @@ bookauthorurl: authors/william-faulkner
 date: 2020-03-29 13:00:00 -0400
 categories: book
 description: A Southern family, once wealthy and respected by their town, drives itself into financial and moral ruin. Led by an abusive, hypochondriac mother and her spiteful youngest son, the family tries to redirect the course of their inevitable demise. Their rigid morals and stubbornness only bury them deeper. 
+keywords: the sound and the fury william faulkner book review
 type: novel
 comments: true
 recommended: true

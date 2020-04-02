@@ -1,0 +1,58 @@
+---
+layout: narrative
+author: Jon Duelfer
+title: 100 Dollars
+bookauthor: Daniel Uncapher
+bookauthorurl: authors/daniel-uncapher
+date: 2020-04-02 19:00:00 -0400
+categories: article
+description: What does $100 mean to you? A rotisserie chicken at Costco costs $5. A bottle of water $1.50. A gallon of gasoline $4. These goods may seem expensive, or they may seem unimaginably cheap considering effort and resources that go into producing them.
+keywords: 100 Dollars daniel uncapher review the sun
+type: article
+recommended: true
+order: 5
+comments: true
+cover: 100-dollars.jpg
+covercaption: Image by <a href="https://www.thesunmagazine.org/contributors/wayne-klaw">Wayne Klaw</a>
+link: https://www.thesunmagazine.org/issues/531/100-dollars
+linktext: Read online at <i>The Sun Magazine</i>
+score: 90
+---
+<hr/>
+
+As a child of the 1990s, I remember the weight of a $20 bill. It could have bought me top-of-the-line baseball cards, a ticket to the movie theater with snacks and a soda included, or even some wheels for my skateboard.
+
+As an adult in 2020, money has a different meaning. My employer deposits it into my bank account at the end of each month. A large slice of it is automatically sent out to pay for rent, utilities, magazines, internet, video streaming services, etc. Even though at some point that money was hypothetically mine, I never touched it.
+
+So, I like to imagine that my bank has a safe somewhere in their basement where they keep my money. I like to imagine that whenever I swipe my card, a teller receives a notification, takes the money out of the box, and sends it off to the lucky recipient.
+
+The ongoing coronavirus crisis makes this idea of invisible money even more discomforting. We have a tendency, or urge, to stock up when things get tight. At the supermarket, we might buy an extra carton of eggs or gallon of milk.
+
+This is what makes Daniel Uncapher’s essay, _100 Dollars_, so timely. He wrote it way before the current situation, but it hits on ideas that are prevalent today. He opens with a reference to a comical, but mind-boggling fact that we can purchase a $5 rotisserie chicken at Costco.
+> <strong>$5</strong><br/>
+A network of rational and skilled human beings has operated in perfect tandem across space and time to hatch, raise, slaughter, pluck, clean, season, cook, and sell me an entire chicken at Costco for $5.
+
+<h2><strong>Goods</strong></h2>
+The price of a good doesn’t necessarily correlate with the effort it takes to produce it. If I were to prepare a rotisserie chicken from scratch, I would certainly want more than $5 for it. So the price of a good is set by different factors. Take, for example, a bottle of water from Nestlé that costs $1.50.
+> Try Arrowhead, the great California spring water by Nestlé! Sucked from the mountains by a network of subterranean concrete pipes, trucked across the desert, purified in the same filtration plants that process all of LA’s tap water, bottled in carbon, and then shipped off for your consumption.
+
+How on earth could something that takes so much effort to produce only cost $1.50? The modern economy is built on efficiency. Uncapher demonstrates this by retelling an interaction he had with Amazon. He bought a bottle of lotion off the website. When it arrived at his home, he realized that he didn’t need it. They returned his money automatically, no strings attached.
+> They refunded my money without even making me send the lotion back. Capitalism makes this possible; goods are so cheap, they can just be thrown away.
+
+What does this mean for us, that we produce goods so efficiently that they can be tossed aside? Let’s imagine that a person works at the factory that makes the lotion. They “can’t be rented for less than $7.25” an hour. That means that if this person works an 8-hour shift (with taxes taken from their paycheck), and if they buy the $5 rotisserie chicken (with taxes applied at the point of sale), that meal could be over 10% of their daily paycheck.
+
+Imagine 10% of your daily paycheck taken away for one meal. This worker needs to buy two more meals that day, pay their rent, their utilities, insurance, etc. The fact that a bottle of lotion can be discarded while a minimum wage worker struggles to get by is a cornerstone of capitalism.
+
+<h2><strong>External costs</strong></h2>
+In order to purchase the $5 rotisserie chicken at Costco, the worker has to be able to get to the store. In the United States, this is most likely going to be achieved by driving a car.
+
+Therefore, the worker has to pay for gasoline. Gasoline, then, has to be cheap enough to fit within their budget. Uncapher prices it at $4 per gallon at the time of this essay. He argues that similar to the rotisserie chicken and the bottle of water, it’s impossible that gasoline can cost so little.
+
+He references [external costs](https://en.wikipedia.org/wiki/Externality) as being the reason for the low prices of these goods. In simple terms, gasoline _cannot_ be produced for $4 dollars a gallon. Much of the actual cost of these good, including human and environmental side effects, are off-loaded onto other parts of the global system, if addressed at all.
+
+<h2><strong>Final Thoughts</strong></h2>
+The burdens of the current system are off-loaded somewhere. The emissions produced by our vehicles go somewhere. The plastics produced from our packaging goes somewhere. We may never be part of that somewhere. It may be future generations. It may be other countries. We may never be judged by our current actions. Does that make them ethical?
+
+Uncapher’s essay is extremely well written and though-provoking. I’ll leave one of the most impactful sections for you to contemplate for yourself.
+> <strong>$4</strong><br/>
+A black man named Gregory Vaughn Hill Jr. was listening to music in his garage in Fort Pierce, Florida, when a white sheriff’s deputy named Christopher Newman arrived to ask him to turn it down and ended up shooting him three times, killing him. Mr. Hill left behind a fiancée and three children, who filed a wrongful-death lawsuit. The jury in the case denied that Newman had used excessive force but acknowledged negligence on the part of the sheriff’s office. They awarded the family $4: $1 for the funeral and $1 for each child.
