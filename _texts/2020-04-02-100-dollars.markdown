@@ -6,7 +6,7 @@ bookauthor: Daniel Uncapher
 bookauthorurl: authors/daniel-uncapher
 date: 2020-04-02 19:00:00 -0400
 categories: article
-description: What does $100 mean to you? A rotisserie chicken at Costco costs $5. A bottle of water $1.50. A gallon of gasoline $4. These goods may seem expensive, or they may seem unimaginably cheap considering effort and resources that go into producing them.
+description: What does $100 mean to you? A rotisserie chicken at Costco costs $5. A bottle of water $1.50. A gallon of gasoline $4. These goods may seem expensive, or they may seem unimaginably cheap considering the effort and resources that go into producing them.
 keywords: 100 Dollars daniel uncapher review the sun
 type: article
 recommended: true
