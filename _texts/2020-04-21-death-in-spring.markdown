@@ -4,7 +4,7 @@ author: Jon Duelfer
 title: Death in Spring
 bookauthor: Mercè Rodoreda
 bookauthorurl: authors/merce-rodoreda
-date: 2020-04-20 19:00:00 -0400
+date: 2020-04-21 20:00:00 -0400
 categories: book
 description: In a village secluded in the mountains, a young boy confronts the bizarre rituals of his society. He is aware of its cruelty and obsession with suffering, but it is all he has, and will, ever know.
 keywords: death in spring merce rodoreda book review
