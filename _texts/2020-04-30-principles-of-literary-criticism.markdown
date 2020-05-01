@@ -4,6 +4,7 @@ author: Jon Duelfer
 title: Principles of Literary Criticism
 subtitle: Two Uses of Language, Poetry and Beliefs
 bookauthor: I. A. Richards
+bookauthorurl: authors/i-a-richards 
 date: 2020-04-30 20:00:00 -0400
 categories: nonfiction
 description: "I. A. Richards argues that science and literature use two different forms of language: <i>scientific</i> and <i>emotive</i> language. Fiction and poetry use emotive language to stir our underlying beliefs."
