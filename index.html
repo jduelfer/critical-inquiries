@@ -13,19 +13,16 @@ keywords: Books, Novels, Reviews, Literature
       <ol class="carousel-indicators">
         {% for item in site.texts reversed %}
           {% if forloop.index < 10 %}
-            {% if item.isMeaningOfWriting == null %}
               {% if forloop.index == 1 %}
                 <li data-target="#carouselExampleIndicators" data-slide-to="{{ forloop.index }}" class="active"></li>
               {% else %}
                 <li data-target="#carouselExampleIndicators" data-slide-to="{{ forloop.index }}"></li>
               {% endif %}
-            {% endif %}
           {% endif %}
         {% endfor %}
       </ol>
       {% for item in site.texts reversed %}
         {% if forloop.index < 10 %}
-          {% if item.isMeaningOfWriting == null %}
             {% if forloop.index == 1 %}
               <div class="carousel-item active">
             {% else %}
@@ -37,6 +34,9 @@ keywords: Books, Novels, Reviews, Literature
                       <div class="col-sm-8 col-xs">
                         <div class="pl-2">
                           <h2 style="color:white;padding:0px;margin:0px">{{ item.title }}</h2>
+                          {% if item.subtitle != null %}
+                            <h5 style="color:white;padding:0px;margin:0px">{{ item.subtitle }}</h5>
+                          {% endif %}
                           <p style="line-height: 1rem;font-size:14px;margin-bottom:0px;">By: {{ item.bookauthor }}</p>
                           <p style="line-height: 1rem;font-size:14px;margin-bottom:0px;">Reviewed: {{ item.date | date_to_string }}</p>
                           <p style="line-height: 1rem;font-size:14px;">Type: {{ item.type }}</p>
@@ -55,7 +55,6 @@ keywords: Books, Novels, Reviews, Literature
                 </div>
               </div>
           {% endif %}
-        {% endif %}
       {% endfor %}
     </div>
     <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">

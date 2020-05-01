@@ -4,6 +4,9 @@ layout: default
 
 <div class="narrative">
   <h1 id="postTitle" class="text-title" style="margin-bottom:0px;"><strong>{{ page.title }}</strong></h1>
+  {% if page.subtitle != null %}
+    <h5 style="padding:0px;margin:0px"><strong>{{ page.subtitle }}</strong></h5>
+  {% endif %}
   {% if page.bookauthor %}
     <p class="citation" style="margin-bottom:0px;"><i>by</i> 
     <a href="/{{ page.bookauthorurl }}">{{ page.bookauthor }}</a></p>

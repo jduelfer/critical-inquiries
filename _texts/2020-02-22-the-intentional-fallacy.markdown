@@ -50,5 +50,6 @@ Take, for example, satire. Satire requires _private_ knowledge in order to be su
 The important takeaway is that we shouldn’t concern ourselves with the “genius” of the author. We should judge literary art based upon more intrinsic values. What those values are, is up for discussion.
 
 <div>
-    <a href="{{ site.baseurl }}/texts/2019-09-22-hermeneutics/" style="float:left;"><< 3. Hermeneutics</a>
+    <a href="{{ site.baseurl }}/texts/2019-09-22-hermeneutics/" style="float:left;"><< 2. Hermeneutics</a>
+    <a href="{{ site.baseurl }}/texts/2020-04-30-principles-of-literary-criticism/" style="float:right;">4. Principles of Literary Criticism >></a>
 </div>
