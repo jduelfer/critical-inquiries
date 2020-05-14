@@ -10,7 +10,7 @@ description: Can a computer write an article for <i>The New Yorker</i>? John Sea
 keywords: artificial intelligence the new yorker grammarly openai
 type: article
 recommended: true
-order: 6
+order: 7
 comments: true
 cover: the-next-word.jpg
 covercaption: Photo by Janko Ferlic from Pexels

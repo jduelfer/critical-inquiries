@@ -10,13 +10,13 @@ description: Seth Ackerman moderates a debate on populism between some prominent
 keywords: populism jacobin socialism working-class voters
 type: article
 recommended: true
-order: 5
+order: 6
 comments: true
 cover: fear-of-a-populist-planet.jpg
 covercaption: Image from Jacobin https://jacobinmag.com/2019/11/fear-of-a-populist-planet/
 link: https://jacobinmag.com/2019/11/fear-of-a-populist-planet/
 linktext: Read on Jacobin (requires subscription)
-score: 88
+score: 83
 ---
 <hr/>
 
