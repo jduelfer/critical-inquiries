@@ -6,7 +6,7 @@ bookauthor: M. H. Perry
 bookauthorurl: authors/mh-perry
 date: 2020-05-13 20:00:00 -0400
 categories: article
-description: What would it look like for a small, family farm to turn from growing mass-produced commidities such as corn, wheat, and beans to growing native wildflowers? M. H. Perry gives us a first-hand account of what her farm went through, giving us a wonderful and inspiring glimpse of rural America.
+description: What would it look like for a small, family farm to turn from growing mass-produced commodities such as corn, wheat, and beans to growing native wildflowers? M. H. Perry gives us a first-hand account of what her farm went through, giving us a wonderful and inspiring glimpse of rural America.
 keywords: Farewell to Agro boulevard review M. H. Perry agriculture
 type: article
 recommended: true
@@ -50,7 +50,7 @@ Perry and her husband decide to go for it anyways. It takes them a year before t
 
 Thankfully, their wildflowers make it through the weeds, growing naturally in their native landscape. The federal government also comes through with a set of subsidies. Perry records the conversation with Keith.
 > “I’m guessing you did the deed?”<br/><br/>
-He sighed. “Turns out the governement will reimburse about half of our costs and also pay us a $15,000 sign-up incentive.”<br/><br/>
+He sighed. “Turns out the government will reimburse about half of our costs and also pay us a $15,000 sign-up incentive.”<br/><br/>
 I was sure I had misheard him. “The federal government is going to pay us a signing bonus for growing wildflowers?”<br/><br/>
 “And $240 rent on each acre we aren’t planting in grain. Between the incentive, the reimbursements, and the rent, we’ll make more growing flowers for the bees and butterflies than we did growing corn and beans for Coca-Cola and Frito-Lay.”
 
