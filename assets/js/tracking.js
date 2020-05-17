@@ -6,7 +6,7 @@ $(document).ready(function() {
     }
     var userAgent = navigator.userAgent;
     var language = navigator.language;
-    var isPossibleBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(navigator.userAgent);
+    var isPossibleBot = /bot|googlebot|crawler|spider|robot|crawling|BingPreview/i.test(navigator.userAgent);
     var site = 'The Inquiring Reader';
     $.ajax({
         type: 'GET',
