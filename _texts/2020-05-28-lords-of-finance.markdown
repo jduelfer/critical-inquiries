@@ -16,6 +16,7 @@ cover: lords-of-finance.jpg
 score: 83
 isbook: true
 banner: true
+showforauthor: true
 ---
 <hr/>
 
@@ -36,7 +37,7 @@ But that is part of the charm of _Lords of Finance_; it is a crossroads of econo
 <h2><strong>Analysis</strong></h2>
 In order to keep this review short, I have broken my analysis out into separate posts that I will update as I complete them:
 
-1. Initial Concepts (...upcoming)
+1. [Part I: Introduction and WWI](/texts/2020-05-30-lords-of-finance-analysis-part-one/)
 2. The Gold Standard (...upcoming)
 3. Going Off Gold (...upcoming)
 4. The Collapse (...upcoming)
@@ -50,5 +51,7 @@ Retrospectively, we can point fingers all we want saying that they “made mista
 
 That is a fantasy world. We will confront an unending number of circumstances that we have never seen before. The dotcom bubble, the housing crisis, and the current COVID-19 crisis are all examples of this. After-the-fact, we may be able to trace causes of each crisis. But to say that they are the “direct result” of “blunders” is to miss the point.
 
-That being said, by making his thesis clear upfront and tracing historical facts, Ahamed has produced a great book. It is deeply thought-provoking, fun to read, and incredibly relevant to today’s world. It might be a little too large for the casual reader, but if you are interested in economics and finance, this book will be right up your ally. 
+That being said, by making his thesis clear upfront and tracing historical facts, Ahamed has produced a great book. It is deeply thought-provoking, fun to read, and incredibly relevant to today’s world. It might be a little too large for the casual reader, but if you are interested in economics and finance, this book will be right up your ally.
+
+[Read the full, detailed analysis of Lords of Finance >>](/texts/2020-05-30-lords-of-finance-analysis-part-one/)
 
