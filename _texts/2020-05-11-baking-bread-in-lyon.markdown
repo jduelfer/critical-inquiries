@@ -17,6 +17,7 @@ covercaption: Illustration by Leo Espinosa
 link: https://www.newyorker.com/magazine/2020/04/13/baking-bread-in-lyon
 linktext: Read at The New Yorker
 score: 93
+banner: true
 ---
 <hr/>
 

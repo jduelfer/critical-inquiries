@@ -8,64 +8,43 @@ keywords: Books, Novels, Reviews, Literature
 <span id="postTitle" style="display:none">Home</span>
 <div class="toc">
 
-  <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="5000">
-    <div class="carousel-inner">
-      <ol class="carousel-indicators">
-        {% for item in site.texts reversed %}
-          {% if forloop.index < 10 %}
-              {% if forloop.index == 1 %}
-                <li data-target="#carouselExampleIndicators" data-slide-to="{{ forloop.index }}" class="active"></li>
-              {% else %}
-                <li data-target="#carouselExampleIndicators" data-slide-to="{{ forloop.index }}"></li>
-              {% endif %}
-          {% endif %}
-        {% endfor %}
-      </ol>
-      {% for item in site.texts reversed %}
-        {% if forloop.index < 10 %}
-            {% if forloop.index == 1 %}
-              <div class="carousel-item active">
-            {% else %}
-              <div class="carousel-item">
-            {% endif %}
-                <div class="carousel-background d-block w-100 py-4 bg-secondary text-white">
-                  <div class="container">
-                    <div class="row recent-review" style="cursor:pointer;" onclick="document.location='{{site.baseurl}}{{item.url}}'">
-                      <div class="col-sm-8 col-xs">
-                        <div class="pl-2">
-                          <h2 style="color:white;padding:0px;margin:0px">{{ item.title }}</h2>
-                          {% if item.subtitle != null %}
-                            <h5 style="color:white;padding:0px;margin:0px">{{ item.subtitle }}</h5>
-                          {% endif %}
-                          <p style="line-height: 1rem;font-size:14px;margin-bottom:0px;">By: {{ item.bookauthor }}</p>
-                          <p style="line-height: 1rem;font-size:14px;margin-bottom:0px;">Reviewed: {{ item.date | date_to_string }}</p>
-                          <p style="line-height: 1rem;font-size:14px;">Type: {{ item.type }}</p>
-                          <p style="line-height: 1rem;font-size:16px;">{{ item.description }}</p>
-                        </div>
-                      </div>
-                      <div class="col-sm-4 col-xs text-center">
-                        {% if item.hasWhiteBackground %}
-                          <img class="rounded" style="max-height:250px;margin: auto;background-color:white;" src="/assets/img/{{ item.cover }}"/>
-                        {% else %}
-                          <img class="rounded" style="max-height:250px;margin: auto;" src="/assets/img/{{ item.cover }}"/>
-                        {% endif %}
-                      </div>
-                    </div>
-                  </div>
-                </div>
+  <div class="flex-banner">
+    {% assign bannerPosts = site.texts | sort:"date" | reverse | where:"banner", "true" %}
+    {% for item in bannerPosts limit:1 %}
+      <div class="banner-post center-post p-3" onclick="document.location='{{site.baseurl}}{{item.url}}'">
+        <div class="banner-photo center pr-2">
+          <img class="rounded" style="max-height:200px;margin: auto;" src="/assets/img/{{ item.cover }}"/>
+        </div>
+        <div class="banner-text">
+          <a href="{{ site.baseurl }}{{ item.url }}" class="title">
+            {{ item.title }}
+          </a>
+          <h5 class="author">by {{ item.bookauthor }}</h5>
+          <p class="description">{{ item.description }}</p>
+        </div>
+      </div>
+    {% endfor %}
+
+    {% for item in bannerPosts %}
+      {% if forloop.index < 7 %}
+        {% if forloop.index != 1 %}
+            <div class="banner-post p-3" onclick="document.location='{{site.baseurl}}{{item.url}}'">
+              <div class="banner-photo pr-2">
+                <img class="rounded" style="max-height:100px;margin: auto;" src="/assets/img/{{ item.cover }}"/>
               </div>
-          {% endif %}
-      {% endfor %}
-    </div>
-    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
-    </a>
+              <div class="banner-text">
+                <a href="{{ site.baseurl }}{{ item.url }}" class="title">
+                  {{ item.title }}
+                </a>
+                <h5 class="author">by {{ item.bookauthor }}</h5>
+                <p class="description">{{ item.description }}</p>
+              </div>
+            </div>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
   </div>
+  <hr/>
 
   <div class="home-container">
   <h2>Recommended novels</h2>
@@ -236,12 +215,6 @@ keywords: Books, Novels, Reviews, Literature
   </ul>
 </div>
 </div>
-
-<script>
-  $(document).ready(function() {
-    $('.carousel').carousel();
-  });
-</script>
 
 {% include tracking.html %}
 

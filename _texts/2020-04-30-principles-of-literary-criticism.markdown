@@ -15,6 +15,7 @@ comments: true
 thoughtarticle: true
 cover: i-a-richards.png
 covercaption: By © Richards family archive - Richards Archive, Magdalene College Cambridge, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=62038546">https://commons.wikimedia.org/w/index.php?curid=62038546</a>
+banner: true
 ---
 <hr/>
 

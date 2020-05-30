@@ -17,6 +17,7 @@ covercaption: Image by <a href="https://www.thesunmagazine.org/contributors/wayn
 link: https://www.thesunmagazine.org/issues/531/100-dollars
 linktext: Read online at <i>The Sun Magazine</i>
 score: 90
+banner: true
 ---
 <hr/>
 

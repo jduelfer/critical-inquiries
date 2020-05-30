@@ -13,6 +13,7 @@ comments: true
 recommended: false
 cover: the-obelisk-gate.jpg
 score: 80
+banner: true
 ---
 <hr/>
 

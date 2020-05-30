@@ -15,6 +15,7 @@ order: 3
 cover: lords-of-finance.jpg
 score: 83
 isbook: true
+banner: true
 ---
 <hr/>
 

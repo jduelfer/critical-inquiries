@@ -16,6 +16,7 @@ cover: boulevard.jpeg
 link: https://boulevardmagazine.org/
 linktext: Subscribe to Boulevard
 score: 88
+banner: true
 ---
 <hr/>
 

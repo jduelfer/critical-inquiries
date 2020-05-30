@@ -17,6 +17,7 @@ covercaption: Photograph by David Attie
 link: https://www.newyorker.com/magazine/2020/05/11/how-we-got-to-sesame-street
 linktext: Read at The New Yorker
 score: 84
+banner: true
 ---
 <hr/>
 

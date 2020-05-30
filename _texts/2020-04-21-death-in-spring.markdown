@@ -14,6 +14,7 @@ recommended: true
 order: 4
 cover: death-in-spring.jpg
 score: 92
+banner: true
 ---
 <hr/>
 

@@ -92,13 +92,67 @@ $app-media-xs: 767px;
   border-color: $link-color;
 }
 
-.carousel-background {
-  min-height: 16rem;
+.flex-banner {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
 }
 
-@media (max-width: 575px) {
-  .carousel-background {
-    min-height: 35rem;
+@media (min-width: 38em) {
+  .flex-banner :nth-child(1) { order: 1; }
+  .flex-banner :nth-child(2) { order: 2; }
+}
+
+@media (min-width: 56em) {
+  .flex-banner :nth-child(1) { order: 2; }
+  .flex-banner :nth-child(2) { order: 1; }
+}
+.flex-banner :nth-child(3) { order: 3; }
+.flex-banner :nth-child(4) { order: 4; }
+.flex-banner :nth-child(5) { order: 5; }
+.flex-banner :nth-child(6) { order: 6; }
+
+.banner-post {
+  width: 300px;
+  min-width: 200px;
+  flex: 1 1 auto;
+  border-right: 1px solid rgb(238, 238, 238);
+  border-bottom: 1px solid rgb(238, 238, 238);
+  border-image: 
+    linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0),
+      lightgrey,
+      rgba(0, 0, 0, 0)
+    ) 1 100%;
+  cursor: pointer;
+}
+.center-post {
+  width: 500px;
+}
+
+.banner-photo {
+  float: left;
+}
+
+.banner-text {
+  text-align: left;
+  
+  .title {
+    font-size: 22px;
+    line-height: 1rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .author {
+    font-size: 16px;
+    margin-bottom: 5px;
+    margin-top:0px;
+  }
+  .description {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 14px;
   }
 }
 

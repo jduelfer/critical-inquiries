@@ -14,6 +14,7 @@ recommended: true
 order: 3
 cover: the-sound-and-the-fury.jpg
 score: 93
+banner: true
 ---
 <hr/>
 

@@ -16,6 +16,7 @@ covercaption: Photograph by Eva O'Leary for The New Yorker
 link: https://www.newyorker.com/magazine/2020/05/11/the-resident-poet
 linktext: "Read online at The New Yorker"
 score: 82
+banner: true
 ---
 <hr/>
 
