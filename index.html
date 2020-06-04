@@ -20,6 +20,7 @@ keywords: Books, Novels, Reviews, Literature
             {{ item.title }}
           </a>
           <h5 class="author">by {{ item.bookauthor }}</h5>
+          <h6 class="category">Category: <a href="/{{ item.typeurl}}">{{ item.type }}</a></h6>
           <p class="description">{{ item.description }}</p>
         </div>
       </div>
@@ -37,6 +38,7 @@ keywords: Books, Novels, Reviews, Literature
                   {{ item.title }}
                 </a>
                 <h5 class="author">by {{ item.bookauthor }}</h5>
+                <h6 class="category">Category: <a href="/{{ item.typeurl}}">{{ item.type }}</a></h6>
                 <p class="description">{{ item.description }}</p>
               </div>
             </div>

@@ -9,6 +9,7 @@ categories: short-fiction
 description: What seems to be a romantic getaway turns into a crude semblance of one. The narrator doesn’t want to be there. She’s not attracted to the man she’s with – repulsed even. Why does she go on with it?
 keywords: The Resident Poet Katherine Dunn review fiction short story the new yorker
 type: short story
+typeurl: shortstories
 recommended: false
 comments: true
 cover: the-resident-poet.jpg

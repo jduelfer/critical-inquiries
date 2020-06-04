@@ -9,6 +9,7 @@ categories: nonfiction
 description: In the ruins of WWI, war debt and reparations weighed heavily on European countries. The central bankers of Britain, France, and Germany had to come together alongisde the United States – now a first-class economic power – to rebuild the global economy. Their mistakes would soon drive the world to the Great Depression.
 keywords: Lords of Finance liaquat ahamed book review
 type: nonfiction
+typeurl: nonfiction
 comments: true
 recommended: true
 order: 3

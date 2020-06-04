@@ -149,10 +149,33 @@ $app-media-xs: 767px;
     margin-bottom: 5px;
     margin-top:0px;
   }
+  .category {
+    font-size: 14px;
+    margin-bottom: 5px;
+    margin-top:0px;
+  }
   .description {
     margin-top: 0px;
     margin-bottom: 0px;
     font-size: 14px;
   }
+}
+
+.score-box {
+  float:right;
+  margin-top:25px;
+}
+.score {
+  border-radius: 50%;
+  width: 75px;
+  height: 75px;
+  padding: 5px;
+
+  background: #fff;
+  border: 2px solid rgb(69, 69, 69);;
+  color: rgb(69, 69, 69);;
+  text-align: center;
+
+  font-size: 40px;
 }
 

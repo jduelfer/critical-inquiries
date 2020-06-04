@@ -9,6 +9,7 @@ categories: article
 description: What would it look like for a small, family farm to turn from growing mass-produced commodities such as corn, wheat, and beans to growing native wildflowers? M. H. Perry gives us a first-hand account of what her farm went through, giving us a wonderful and inspiring glimpse of rural America.
 keywords: Farewell to Agro boulevard review M. H. Perry agriculture
 type: article
+typeurl: articles
 recommended: true
 order: 4
 comments: true

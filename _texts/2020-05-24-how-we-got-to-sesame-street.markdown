@@ -9,6 +9,7 @@ categories: article
 description: <i>Sesame Street</i> was created during a time of abundant government spending in social and educational projects. Not too long after, the Reagan years brought deregulation and enormous cuts in public spending. How did it hold up?
 keywords: How We Got to Sesame Street When Ernie Met Bert the new yorker review Jill Lepore
 type: article
+typeurl: articles
 recommended: true
 order: 7
 comments: true

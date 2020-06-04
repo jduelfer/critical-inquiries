@@ -9,6 +9,7 @@ categories: short-fiction
 description: Peering through the blinds of her living room, Eva watches the demolition of a neighborhood house. A dark story surrounds it, but she only wants to remember the good times. A reporter comes to investigate.
 keywords: Demolition Fiona McFarlane review fiction short story the new yorker
 type: short story
+typeurl: shortstories
 recommended: false
 comments: true
 cover: demolition.jpg
