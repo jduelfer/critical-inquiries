@@ -11,7 +11,7 @@ keywords: Karamazov russian literature review
 type: novel
 comments: true
 cover: brothers-karamazov.jpg
-score: 82
+score: 83
 ---
 <p style="font-size:11px;text-align:center">By Russkii Vestnik - Russkii Vestnik - Zhurnal Literaturnyi I Politicheskii. Moskva&nbsp;: M. M. Kotkov, v. 139-150 (1878-1881). From <a rel="nofollow" class="external free" href="http://www.dartmouth.edu/~karamazo/picturetour/bk_pictures.html">http://www.dartmouth.edu/~karamazo/picturetour/bk_pictures.html</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=1968989">Link</a></p>
 <hr/>
