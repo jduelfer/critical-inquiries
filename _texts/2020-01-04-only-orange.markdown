@@ -10,7 +10,7 @@ description: Family relationships are difficult. In <i>Only Orange</i>, Camille 
 keywords: Only Orange camille bordas review fiction the new yorker short story
 type: short story
 recommended: true
-order: 7
+order: 8
 comments: true
 cover: only-orange.jpg
 covercaption: Photograph by Sergiy Barchuk
