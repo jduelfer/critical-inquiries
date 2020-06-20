@@ -7,8 +7,9 @@ bookauthorurl: authors/ernest-hemingway
 date: 2020-06-20 12:00:00 -0400
 categories: short-fiction
 description: Hemingway himself appears as the narrator in this never-before-published short story about marlin fishing off the coast of Cuba. He charters a fishing boat with an old acquaintance, Mr. Josie, and tries to reel in a huge marlin.
-keywords: Pursuit as Happiness Ernest Hemingway review fiction short story
+keywords: Pursuit as Happiness Ernest Hemingway review fiction short story the new yorker
 type: short story
+typeurl: shortstories
 recommended: true
 order: 5
 comments: true
