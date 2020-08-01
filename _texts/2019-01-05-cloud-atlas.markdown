@@ -10,7 +10,7 @@ description: David Mitchell's masterful storytelling and control of language pro
 keywords: Cloud Atlas, David Mitchell, Fiction, Science Fiction
 type: novel
 cover: cloud-atlas-cover.jpg
-order: 5
+order: 6
 recommended: true
 comments: true
 score: 81

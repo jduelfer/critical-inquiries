@@ -11,7 +11,7 @@ keywords: death in spring merce rodoreda book review
 type: novel
 comments: true
 recommended: true
-order: 4
+order: 5
 cover: death-in-spring.jpg
 score: 92
 banner: true

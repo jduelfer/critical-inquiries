@@ -1,0 +1,99 @@
+---
+layout: narrative
+author: Jon Duelfer
+title: Beloved
+bookauthor: Toni Morrison
+bookauthorurl: authors/toni-morrison
+date: 2020-08-01 14:30:00 -0400
+categories: book
+description: Sethe – a woman who escaped slavery by crossing the Ohio River barefoot with a newborn child in her arms – lives with her daughter in an old house in Cincinnati, years after the Civil War. When another former slave from the same, Kentucky plantation shows up at her door, soon followed by a distraught and lonely girl escaping an unknown danger, Sethe’s story is fully revealed in all of its horror and spleandor.
+keywords: Beloved Toni Morrison book review
+type: novel
+typeurl: novels
+comments: true
+recommended: true
+order: 2
+cover: beloved.jpg
+covercaption: By Jacket design by R. D. Scudellari. Published by <a href="https://en.wikipedia.org/wiki/Alfred_A._Knopf" class="extiw" title="w:Alfred A. Knopf">Alfred A. Knopf</a>. - Scan via <a rel="nofollow" class="external text" href="https://historical.ha.com/itm/books/toni-morrison-beloved-new-york-knopf-1987-first-edition-publisher-s-cloth-and-original-du/a/201424-91090.s">Heritage Auctions</a>. Cropped from original image., Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=91795630">Link</a>
+score: 94
+banner: true
+---
+<hr/>
+
+_Beloved_ is one of the greatest American novels ever written. Toni Morrison conveys the sorrow, frustration, anger, love, and pain that Black Americans endured under the institution of slavery. While the story is about a single, Black woman’s escape to freedom and her life after the Civil War – inspired by the true story of [Margaret Garner](https://en.wikipedia.org/wiki/Margaret_Garner) – it’s also about the millions of Black men and women and children who lived through the darkest hour of our nation’s history.
+
+The novel is deeply sentimental; Morrison weaves between memories of the past and present, and between the spiritual and material world to lay out the lifetime of a family. But the novel is also deeply philosophical; it looks down into the soul of human nature when it’s pushed against the limits. What is important in life? Is there right and wrong, good and bad, or does everything land in some gray area in between?
+
+Having read this novel in early 2020, before the Black Lives Matter protests following the murder of George Floyd, I was taken aback by the immense impact of slavery – and racism more generally – on today’s world. As a White male, I can understand the facts and figures: millions of people were ripped from their families, from their homes, from their countries, and forced into slave labor, only to be released into a violent and unjust world with the label of being _free_ but still at the whim of an vastly unjust system. But to even _begin_ to understand, narratives like these are fundamental.
+
+Over-representation of Black Americans in poverty and homelessness, as well as under-representation in higher education and politics, is the direct result of the actions of our ancestors. The future cannot be made just or whole until we understand every minute detail of the inequalities that have direct historical causes and permeate society to this day. Toni Morrison’s _Beloved_ is a way to understand and explain this struggle. But it should not be confined to just Black Americans; it is a philosphical work that could represent the struggles of oppressed people throughout the world.
+
+Writing this review in August 2020, following the BLM protests across this globe, _Beloved_ has a different level of importance. When I finished it early in the year, I knew that this was one of the greatest pieces of America literature to this day. But thinking about it in August, I realize that it holds the weight of a social movement between its pages. It’s much more than literature, and I hope that all Americans find the time to read it.
+
+<h2><strong>Cincinnati</strong></h2>
+Sethe – a middle-aged woman who escaped slavery by crossing the Ohio River through the Underground Railroad – lives with her daughter, Denver. They have a house in a rural neighborhood of Cincinnati years after the end of the Civil War and the abolition of slavery. 
+
+The book opens with Sethe’s mother-in-law, Baby Suggs, having recently passed away. She was a pillar of the local community up until the last few years of her life – when something happened that caused her to turn ill and retreat into her private life. Baby Suggs had made it to Cincinnati after years of slavery on the same plantation in Kentucky where Sethe, Sethe's sons, and Baby Sugg's son remained. Two of her grandsons escaped and made their way up to her. Baby Suggs passed away soon after.
+> Suspended between the nastiness of life and the meanness of the dead, she couldn’t get interested in leaving life or living it, let alone the fright of two creeping-off boys. Her past had been like her present – intolerable – and since she knew death was anything but forgetfulness, she used the little energy left her for pondering color.
+
+After the death of Baby Suggs, the novel focuses on Sethe living alone with Denver in her mother-in-law’s old house. Whereas it was once the center of a vibrant community, it’s now rundown and lonely. Denver’s two older siblings “ran away” for unknown reasons.
+>  Not only did she have to live out her years in a house palsied by the baby’s fury at having its throat cut, but those ten minutes she spent pressed up against dawn-colored stone studded with star chips, her knees wide open as the grave, were longer than life, more alive, more pulsating than the baby blood that soaked her fingers like oil.
+
+Sethe and Denver are very close, but they seem ostracized from the local community. They claim that the house is haunted by a ghost – a ghost that provoked the death of Baby Suggs and the running away of Sethe’s two sons.
+
+<h2><strong>Sweet Home</strong></h2>
+Through Sethe’s stream of consciousness narration, the story shifts time and place, to the Kentucky plantation where their family lived under slavery. Baby Sugg’s character even contributes to the narration postmortem. They called the plantation Sweet Home, which Sethe remembers vividly.
+>  ...or Here Boy lapping in the puddle near her feet, and suddenly there was Sweet Home rolling, rolling, rolling out before her eyes, and although there was not a leaf on that farm that did not make her want to scream, it rolled itself out before her in shameless beauty. It never looked as terrible as it was and it made her wonder if hell was a pretty place too. Fire and brimstone all right, but hidden in lacy groves. Boys hanging from the most beautiful sycamores in the world. It shamed her – remembering the wonderful soughing trees rather than the boys.
+
+Sethe was raped at Sweet Home and violently whipped while pregnant with her child. She married another slave, Halle (Baby Sugg’s son), at the seemingly benevolent approval of the plantation’s owners – who Sethe depicts as having good in them, but ultimately as bad people.
+
+Sethe eventually escaped the plantation, and traveled barefoot to the Ohio River. Moments from crossing into freedom, she gave birth to her daughter, Denver, with the help of a White woman (supposedly an indentured servant or a version of slavery for White Americans).
+
+<h2><strong>Paul D</strong></h2>
+Back in Cincinnati and long after her escape to freedom (Denver is now an adolescent child), a former slave from Sweet Home stops by the house. Sethe is delighted to see Paul D; he is equally happy to see her.
+
+Paul D had remained at Sweet Home until the Civil War. Afterwards, he wandered around the South, never staying in one place for too long and finding odd jobs to sustain himself. Upon seeing Sethe, he decides to settle down with her and Denver in Cincinnati.
+
+They don’t really fall in love with each other; it’s more that they enjoy each other’s company and fulfill their urges with one another. They understand each other’s pasts without words, knowing that speaking of the past would reopen the wounds that they had sealed long ago. This is especially true of Paul D, who hints at an excruciating past.
+>  To recall trembling in a box built into the ground. Grateful for the daylight spent doing mule work in a quarry because he did not tremble when he had a hammer in his hands. The box had done what Sweet Home had not, what working like an ass and living like a dog had not: drove him crazy so he would not lose his mind.
+
+Denver, however, doesn’t like Paul D’s presence in her home. She had lived all alone with her mother up until that point. Sethe makes it abundantly clear that Denver is the most important thing in her life, and that Paul D best not get in the way of their relationship.
+> Risky, thought Paul D, very risky. For a used-to-be-slave woman to love anything that much was dangerous, especially if it was her children she had settled on to love. The best thing, he knew, was to love just a little bit; everything, just a little bit, so when they broke its back, or shoved it in a croaker sack, well, maybe you’d have a little love left over for the next one.
+
+As would be expected, Sethe and Paul D begin to open up more and more about their pasts. Paul D explains that Halle – Sethe’s husband at Sweet Home – had watched Sethe being raped, unable to do anything to stop it. This was “punishment” for something that occurred at Sweet Home. Paul D’s punishment was having the “bit” put on his tongue, which didn’t allow him to speak for sometime. He explained that he wanted to tell Sethe, but the bit didn’t let him.
+> Sethe looked up into Paul D’s eyes to see if there was any trace left in them.
+
+They realize that reopening their old wounds is far too painful and decide to no longer speak of them.
+> Paul D had only begun, what he was telling her was only the beginning when her fingers on his knee, soft and reassuring, stopped him. Just as well. Just as well. Saying more might push them both to a place they couldn’t get back from. He would keep the rest where it belonged: in that tobacco tin buried in his chest where a red heart used to be. Its lid rusted shut. He would not pry it loose now in front of this sweet sturdy woman, for if she got a whiff of the contents it would shame him. And it would hurt her to know that there was no red heart bright as Mister’s comb beating in him.
+
+Instead, they try to live a happy life with Denver. They go to the local carnival as a family. It’s the first time that Sethe and Denver have left their house in years. People in the town are shocked to see them in public, especially with a man. Paul D notices this, but his love for the family remains steadfast – that is, until Beloved shows up.
+
+<h2><strong>Beloved</strong></h2>
+Arriving home after the carnival, they find a distressed, young girl on their doorstep. They let her in the house and give her food while she recovers, bed-ridden, for days. They learn that she had escaped from somewhere awful, and had no friends or family to turn to. Sethe, having been through that herself, understands her. Her name is Beloved.
+
+Paul D, on the other hand, is skeptical; it doesn’t make sense that this girl just “showed up” on their doorstep. There’s nothing for miles around that she would have escaped from on foot, he thinks. Denver, quiet for most of the girl’s recovery, later implies that they know each other.
+> Denver felt a little hurt, slighted that she was not the main reason for Beloved’s return. “Don’t you remember we played together by the stream?”
+
+Time passes and Paul D’s restless nature creeps up on him. He can no longer sleep peacefully in bed next to Sethe, so he goes to sleep out in the shed behind the house.
+
+Beloved tells Denver that she wants Paul D out of the house; this is odd because Beloved is the outsider, although it is soon clear that that’s not the full truth. She decides that the best way to drive a wedge between Paul D and Sethe is to have sex with him. Paul D fights the temptation multiple times.
+> As long as his eyes were locked on the silver of the lard can he was safe. If he trembled like Lot’s wife and felt some womanish need to see the nature of the sin behind him; feel a sympathy, perhaps, for the cursing cursed, or want to hold it in his arms out of respect for the connection between them, he too would be lost.
+
+But eventually, he falls prey to Beloved’s temptation. Afterwards, it makes him sick. As Beloved expected, it drives the wedge between him and Sethe.
+> When he stood up from the supper table at 124 and turned toward the stairs, nausea was first, then repulsion. He, he. He who had eaten raw meat barely dead, who under plum trees bursting with blossoms had crunched through a dove’s breast before its heart stopped beating. Because he was a man and a man could do what he would: be still for six hours in a dry well while night dropped; fight raccoon with his hands and win; watch another man, whom he loved better than his brothers, roast without a tear just so the roasters would know what a man was like. And it was he, that man, who had walked from Georgia to Delaware, who could not go or stay put where he wanted to in 124 – shame.
+
+Paul D decides he must tell Sethe. He knows that she will kick him out of the house immediately. He tries to build of the courage, but fails. He asks Sethe to have a child with him instead, as if that would release him from on wrongdoing and forget the past.
+
+Sethe rejects his proposal, knowing she has too much on her hands between Denver and now Beloved, who she welcomes as her child. Paul D is somewhat relieved, and decides to stick around with the family, until he learns from the town of the events that led to Baby Sugg’s death. He realizes how Beloved fits into the story. He can’t take it and heads out the door.
+
+<h2><strong>Thoughts</strong></h2>
+Toni Morrison’s writing is peculiar; she throws the reader into a whirl of emotions, events, and sensations where it’s hard to get a grip on what is happening. She wants to place you into the mind of her characters, to tell their stories through their own language. You must open up your mind and let the narrators carry you along to fully understand their situations.
+
+Most of the novel is written as a stream of consciousness, flowing between the past and the present, between different characters and third person, between the living and the dead. It’s vivid and beautiful, and although it takes time and patience to understand each character, it is well worth every word.
+
+{% include spoilers/beloved.html %}
+
+<h2><strong>Final Thoughts</strong></h2>
+_Beloved_ is brimming with emotion, philosophy, and history. It’s a remarkable novel that appears only ever so often. Although I prefer more direct prose, it’s undeniable that Morrison’s language is gut-wrenchingly beautiful. Her characters are vividly imagined and will stay ingrained in my memory for years to come.
+
+It is a heavy book; each turn of the page reveals a darker side of human nature that will make you cringe in disbelief. But it is real and truthful, and a window into the past that helps us understand the current state of the world and what we could do to make it a better place. _Beloved_ is a masterpiece and will remain at the top of American Literature well into the foreseeable future.

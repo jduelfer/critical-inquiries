@@ -11,7 +11,7 @@ keywords: the sound and the fury william faulkner book review
 type: novel
 comments: true
 recommended: true
-order: 3
+order: 4
 cover: the-sound-and-the-fury.jpg
 score: 93
 banner: true

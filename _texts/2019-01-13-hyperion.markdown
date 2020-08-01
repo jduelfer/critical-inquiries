@@ -10,7 +10,7 @@ description: Hyperion is an intricate space opera that manages to blend detailed
 keywords: Hyperion, Dan Simmons, Science Fiction, book, review
 type: novel
 cover: hyperion-cover.jpg
-order: 7
+order: 8
 recommended: true
 comments: true
 score: 79
