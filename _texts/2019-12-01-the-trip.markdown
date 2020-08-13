@@ -10,7 +10,7 @@ description: A playful, yet deeply emotional reflection on intercultural relatio
 keywords: the trip review fiction the new yorker short story
 type: short story
 recommended: true
-order: 6
+order: 7
 comments: true
 cover: the-trip.jpg
 covercaption: Illustration by Jee-ook Choi

@@ -11,7 +11,7 @@ keywords: Hold Your Fire Chloe Wilson review fiction short story granta
 type: short story
 typeurl: shortstories
 recommended: true
-order: 8
+order: 9
 comments: true
 cover: granta-membranes.jpg
 link: https://granta.com/hold-your-fire/

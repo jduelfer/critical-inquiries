@@ -10,7 +10,7 @@ description: Sinners in the Hands of an Angry God looks at what is important to 
 keywords: short story sinners in the hands of an angry god review fiction the new yorker
 type: short story
 recommended: true
-order: 3
+order: 4
 comments: true
 cover: sinners-in-the-hands-of-an-angry-god.jpg
 covercaption: Illustration by Na Kim

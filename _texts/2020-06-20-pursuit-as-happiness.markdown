@@ -11,7 +11,7 @@ keywords: Pursuit as Happiness Ernest Hemingway review fiction short story the n
 type: short story
 typeurl: shortstories
 recommended: true
-order: 5
+order: 6
 comments: true
 cover: new-yorker-june-8-15.jpg
 covercaption: <i>This Side Up</i> by Richard McGuire
