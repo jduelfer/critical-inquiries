@@ -10,7 +10,7 @@ description: What does $100 mean to you? A rotisserie chicken at Costco costs $5
 keywords: 100 Dollars daniel uncapher review the sun
 type: article
 recommended: true
-order: 5
+order: 6
 comments: true
 cover: 100-dollars.jpg
 covercaption: Image by <a href="https://www.thesunmagazine.org/contributors/wayne-klaw">Wayne Klaw</a>

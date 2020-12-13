@@ -11,7 +11,7 @@ keywords: How We Got to Sesame Street When Ernie Met Bert the new yorker review 
 type: article
 typeurl: articles
 recommended: true
-order: 7
+order: 8
 comments: true
 cover: how-we-got-to-sesame-street.jpg
 covercaption: Photograph by David Attie
