@@ -12,7 +12,7 @@ type: novel
 typeurl: novels
 comments: true
 recommended: true
-order: 6
+order: 7
 cover: the-stone-sky.jpg
 covercaption: By Source, <a href="//en.wikipedia.org/wiki/File:Jemisin_The_Stone_Sky_cover.jpg" title="Fair use of copyrighted material in the context of The Stone Sky">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=54944411">Link</a>
 score: 88

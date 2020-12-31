@@ -12,7 +12,7 @@ type: novel
 typeurl: novels
 comments: true
 recommended: true
-order: 10
+order: 11
 cover: the-way-of-kings.png
 score: 82
 banner: true
