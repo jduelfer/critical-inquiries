@@ -34,7 +34,7 @@ Any book that is written in another language and translated into English will on
 _Killing Commendatore_’s characters are vivid and complex. Some are lovable, others mysterious and even sinister. Murakami first thrusts us into the life of the narrator, and then wisps us off into his own imagination – where we are unsure what is real and what is not. This is truly a wonderful novel.
 
 <h2><strong>Story</strong></h2>
-The narrator’s wife, named Yuza, just left him. They had been together for much of their twenties and early thirties, but something had pushed her to seek love elsewhere. Although the narrator was blind-sighted at first, as he drives through the Japanese countryside to get away from it all, he reflects on his past and realizes that there were plenty of signs he should have picked up on.
+The narrator’s wife, named Yuzu, just left him. They had been together for much of their twenties and early thirties, but something had pushed her to seek love elsewhere. Although the narrator was blind-sighted at first, as he drives through the Japanese countryside to get away from it all, he reflects on his past and realizes that there were plenty of signs he should have picked up on.
 
 Through these reflections on his relationship, he also tells us about other parts of his life. He’s a very skilled artist who fell into painting mundane portraits for a steady paycheck. He doesn’t regret this decision – as many of his schoolmates either sought out different professions entirely or aren’t making enough for a decent living – but he does wish to pursue his own artistic desires.
 
@@ -65,6 +65,4 @@ But this was also part of the appeal; I felt deeply attached to the narrator and
 
 Although there are certainly elements that I felt were out of place or not as strong as they could have been, _Killing Commendatore_ is a very good book and has wiggled its way to one of my lesser favorites.
 
-There is just something about its _elegance_ that’s hard to explain; Murakami understands the aesthetic world and conveys is beautifully through writing. Flipping the pages of the book, even though the storyline may have stalled at times, was an absolute pleasure.
-
-
+There is just something about its _elegance_ that’s hard to explain; Murakami understands the aesthetic world and conveys is beautifully through writing. Flipping the pages of the book, even though the story line may have stalled at times, was an absolute pleasure.
