@@ -45,3 +45,6 @@ It took some time for this story to grow on me, and it was certainly Joy’s cha
 > I picked out a dress that I used to love because it was orange and had only cost me seven dollars.
 
 The elements of magical realism made the story into something memorable; I could imagine her family members having sat in front of that same mirror with their own issues in life. Understanding our family and where we come from is an important process of confronting the problems we face in our own world, and using that as a source of strength is how we can find contentment and meaning in our lives.
+
+<h5>Additional Reviews</h5>
+- Karen Carlson's [A Just Recompense review](https://sloopie72.wordpress.com/2020/11/13/bass-2020-selena-anderson-godmother-tea-from-oxford-american-106/)
