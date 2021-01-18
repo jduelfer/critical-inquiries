@@ -84,6 +84,9 @@ The question that remains is this: does the punishment fit the crime? On one han
 
 On the other hand, Quin _didn’t_ lose it all. From what we know, there are no criminal charges, he simply shifted roles to a less high-profile job (surely maintaining a similar salary-level and internal influence), and has held onto his wife and child, albeit barely. If America’s outgoing President has taught us anything, it’s that with enough will-power, status, and influence, these sorts of allegations can be swept under the rug.
 
+<h5>Additional Reviews</h5>
+- Karen Carlson's [A Just Recompense review](https://sloopie72.wordpress.com/2020/11/27/bass-2020-mary-gaitskill-this-is-pleasure-from-the-new-yorker-7-8-2019/)
+
 <h5>A somewhat contraversial claim</h5>
 My only qualm, which is much less with this piece than it is with liberal media more broadly, is that there tends to be an emphasis on middle and upper-class issues of _microaggressions_. These issues have found a resonant base in popular culture, both because they _are_ serious issues and because they fit delicately within mainstream art.
 
