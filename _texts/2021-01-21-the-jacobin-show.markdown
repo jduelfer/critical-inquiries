@@ -23,9 +23,9 @@ The sixth episode of _The Jacobin Show_ is an excellent one, especially as the n
 
 The first is that Biden has reportedly fired Peter Robb, as McAlevey called for in her article, [Why Unions Must Recommit to Expanding Their Base in The Nation](https://www.thenation.com/article/politics/biden-labor-unions-organizing/). The second is that Biden appointed [Marty Walsh](https://en.wikipedia.org/wiki/Marty_Walsh_(politician)) as labor secretary.
 
-Joe Biden has constantly referred to his upbringing in a working-class family in Pennsylvaniaas a testament to how he will fight for working-class Americans. The policies of the Obama Administration seem to indicate otherwise, though there were steps in the right direction. Maybe given last four years of disaster, a deadly pandemic, and Democrat majorities in the House and the Senate, there is hope at the end of the tunnel.
+Joe Biden has constantly referred to his upbringing in a working-class family in Pennsylvania a testament to how he will fight for working-class Americans. The policies of the Obama Administration seem to indicate otherwise, though there were steps in the right direction. Maybe given last four years of disaster, a deadly pandemic, and Democrat majorities in the House and the Senate, there is hope at the end of the tunnel.
 
-But enacting real change will take organization to build local politics, push through legislation, and drive the executive branch  and federal agencies in the right direction. With this in mind, Jacobin invited [Jane F. McAlevey](https://en.wikipedia.org/wiki/Jane_McAlevey) – a labor organizer that Prescod dubs “a five star general” if the Left _had_ generals – to teach us the fundamentals of labor organizing and where we can go from here.
+But enacting real change will take organization to build local politics, push through legislation, and drive the executive branch and federal agencies in the right direction. With this in mind, Jacobin invited [Jane F. McAlevey](https://en.wikipedia.org/wiki/Jane_McAlevey) – a labor organizer that Prescod dubs “a five star general” if the Left _had_ generals – to teach us the fundamentals of labor organizing and where we can go from here.
 
 Personally, as a southerner from a small town and a working-class family, this episode was an eye-opener. I had never come face-to-face with labor organization until I traveled to Southern Spain where [PSOE](https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party) has nearly unwavering support (at least in [Andalusia](https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party_of_Andalusia)).
 
@@ -71,3 +71,4 @@ If you have any questions about unions, you can go to McAlevey’s website, [Org
 This was an excellent episode of _The Jacobin Show_. I had no idea about strategies about labor organizing, but this was a wonderful primer.
 
 I also appreciated the familiarity of this episode over some of the prior ones. I come to [Jacobin](https://jacobinmag.com/) for straightforward discussions. I don’t want it to become _sterile_ like many forms of media. Pan and Prescod, with McAlevey’s great interview, made this episode feel like a discussion right at home.
+
