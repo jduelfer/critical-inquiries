@@ -12,7 +12,7 @@ type: show
 typeurl: shows
 recommended: true
 comments: true
-cover: jacobin-show-organizing-the-working-class.jpg
+cover: jacobin-labor-organizing.jpg
 score: 84
 link: https://www.youtube.com/watch?v=6RWhdj5CLQo
 linktext: "Watch on YouTube"
