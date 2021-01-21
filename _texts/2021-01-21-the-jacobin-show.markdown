@@ -23,7 +23,7 @@ The sixth episode of _The Jacobin Show_ is an excellent one, especially as the n
 
 The first is that Biden has reportedly fired Peter Robb, as McAlevey called for in her article, [Why Unions Must Recommit to Expanding Their Base in The Nation](https://www.thenation.com/article/politics/biden-labor-unions-organizing/). The second is that Biden appointed [Marty Walsh](https://en.wikipedia.org/wiki/Marty_Walsh_(politician)) as labor secretary.
 
-Joe Biden has constantly referred to his upbringing in a working-class family in Pennsylvania a testament to how he will fight for working-class Americans. The policies of the Obama Administration seem to indicate otherwise, though there were steps in the right direction. Maybe given last four years of disaster, a deadly pandemic, and Democrat majorities in the House and the Senate, there is hope at the end of the tunnel.
+Joe Biden has constantly referred to his upbringing in a working-class family in Pennsylvania as a testament to how he will fight for working-class Americans. The policies of the Obama Administration seem to indicate otherwise, though there were steps in the right direction. Maybe given last four years of disaster, a deadly pandemic, and Democrat majorities in the House and the Senate, there is hope at the end of the tunnel.
 
 But enacting real change will take organization to build local politics, push through legislation, and drive the executive branch and federal agencies in the right direction. With this in mind, Jacobin invited [Jane F. McAlevey](https://en.wikipedia.org/wiki/Jane_McAlevey) – a labor organizer that Prescod dubs “a five star general” if the Left _had_ generals – to teach us the fundamentals of labor organizing and where we can go from here.
 
