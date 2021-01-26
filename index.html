@@ -19,8 +19,12 @@ keywords: Books, Novels, Reviews, Literature
           <a href="{{ site.baseurl }}{{ item.url }}" class="title">
             {{ item.title }}
           </a>
-          <h5 class="author">by {{ item.bookauthor }}</h5>
-          <h6 class="category">Category: <a href="/{{ item.typeurl}}">{{ item.type }}</a></h6>
+          {% if item.bookauthor %}
+            <h5 class="author">by {{ item.bookauthor }}</h5>
+          {% endif %}
+          {% if item.type %}
+            <h6 class="category">Category: <a href="/{{ item.typeurl}}">{{ item.type }}</a></h6>
+          {% endif %}
           <p class="description">{{ item.description }}</p>
         </div>
       </div>
