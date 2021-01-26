@@ -467,7 +467,7 @@ I hope this ranking is helpful in finding a topic that's intriguing. Or it could
             </a>
             <h6 class="author" style="margin-top:0px;">by Bill Buford</h6>
             <p style="font-size: 16px;margin-bottom: 0px;">
-                Bill Buford writes about his taking his family to Lyon, France to pursue his passion in the culinary arts. But when he can’t manage to land a job in one of the city’s top restaurants, he turns towards his neighborhood bakery. It’s run by a jovial Frenchman named Bob, who takes Bill under his wing and teaches him the beautiful, ancient work of baking bread. Buford’s writing is unparalleled, and the story is as beautiful as it is endearing and meaningful.
+                Bill Buford writes about taking his family to Lyon, France to pursue his passion in the culinary arts. But when he can’t manage to land a job in one of the city’s top restaurants, he turns towards his neighborhood bakery. It’s run by a jovial Frenchman named Bob, who takes Bill under his wing and teaches him the beautiful, ancient work of baking bread. Buford’s writing is unparalleled, and the story is as beautiful as it is endearing and meaningful.
             </p>
         </div>
         </div>
