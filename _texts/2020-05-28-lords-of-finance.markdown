@@ -12,7 +12,7 @@ type: nonfiction
 typeurl: nonfiction
 comments: true
 recommended: true
-order: 4
+order: 5
 cover: lords-of-finance.jpg
 score: 83
 isbook: true

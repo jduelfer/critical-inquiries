@@ -10,7 +10,7 @@ description: American healthcare is in disarray. Pharmaceuticals are at astronom
 keywords: An American Sickness Elizabeth Rosenthal book review
 type: nonfiction
 typeurl: nonfiction
-order: 6
+order: 7
 comments: true
 recommended: true
 cover: an-american-sickness.jpeg

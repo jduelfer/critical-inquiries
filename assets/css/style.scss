@@ -96,6 +96,8 @@ $app-media-xs: 767px;
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
+  max-width: 1300px;
+  margin: 0 auto;
 }
 
 @media (min-width: 38em) {
