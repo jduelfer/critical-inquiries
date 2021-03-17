@@ -11,7 +11,7 @@ keywords: How Propaganda Works review book nonfiction Jason Stanley
 type: nonfiction
 comments: true
 recommended: true
-order: 3
+order: 4
 cover: how-propaganda-works.jpg
 covercaption: Source <a href="https://jason-stanley.com/book/how-propaganda-works/">https://jason-stanley.com/book/how-propaganda-works/</a>
 score: 85

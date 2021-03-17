@@ -10,7 +10,7 @@ description: Postwar is an awe-inspiring history of the European community rebui
 keywords: Postwar, Tony Judt, book, review, history, Europe, World War II, European history, modern Europe, book review, nonfiction
 type: nonfiction
 cover: postwar-cover.jpg
-order: 2
+order: 3
 recommended: true
 comments: true
 score: 89

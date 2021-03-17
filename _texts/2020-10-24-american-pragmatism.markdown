@@ -10,7 +10,7 @@ description: Americans are known for our dismissal of traditions and norms, our 
 keywords: American Pragmatism Albert Spencer book review introduction
 type: nonfiction
 typeurl: nonfiction
-order: 6
+order: 7
 comments: true
 recommended: true
 cover: american-pragmatism.jpg
