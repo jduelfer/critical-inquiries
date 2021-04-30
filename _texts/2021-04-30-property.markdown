@@ -4,7 +4,7 @@ author: Jon Duelfer
 title: Property
 bookauthor: Robert Lamb
 bookauthorurl: authors/robert-lamb
-date: 2021-04-30 11:00:00 -0400
+date: 2021-04-30 11:30:00 -0400
 categories: book
 description: Private property is of the most fundamental human rights for some, while for others it's the principle cause of injustice and poverty in the modern world. In this survey of political philosophies both in defense of and against private property, Robert Lamb hopes to shed a light on why the institution is ultimately justifiable.
 keywords: Property review book nonfiction Robert Lamb
@@ -25,10 +25,10 @@ _Property_ is an installment of the series [Key Concepts in Political Theory](ht
 
 He approaches this question by first taking a shot at defining property itself. Is it the _exclusive use_ of something? How do we decide who owns something? Is it the first person to claim it, or does it depend on power dynamics? Can it be inherited and passed to others?
 
-Simply by rattling off a few questions, it's obvious that property is a more complex concept than we may consider at first. Lamb decides to take another path: he first reviews the arguments _against_ private property – mainly from socialist and anarchist theorists – and then procedes to review the primary arguements in defense of it – including libertarians, theologists, utilitarians, and ultimately philosophers in the liberal tradition.
+Simply by rattling off a few questions, it's obvious that property is a more complex concept than we may consider at first. Lamb decides to take another path: he first reviews the arguments _against_ private property – mainly from socialist and anarchist theorists – and then proceeds to review the primary arguments in defense of it – including libertarians, theologians, utilitarians, and ultimately philosophers in the liberal tradition.
 > By the end of our exploration of theories of property, I conclude that private ownership <strong>can</strong> ultimately be justified, though not via the arguments pursued by many of its most ardent cheerleaders.
 
-Even though Lamb is confident in his conclusion, I don't think everybody will be persuaded. Lamb's writing will certainly spark a greater appreciation for theories of private property, but I don't think it will convince those who question the fundamentals of private property or believe in it for a different reason. In fact, I think many people might pick up this book questioning the liberal tradition of private property and maybe be dissapointed that the ultimate conclusion is based on the liberal tradition itself.
+Even though Lamb is confident in his conclusion, I don't think everybody will be persuaded. Lamb's writing will certainly spark a greater appreciation for theories of private property, but I don't think it will convince those who question the fundamentals of private property or believe in it for a different reason. In fact, I think many people might pick up this book questioning the liberal tradition of private property and maybe be disappointed that the ultimate conclusion is based on the liberal tradition itself.
 
 A reader's evaluation will most likely depend on the perspective they had coming into the book, since I think _Property_ is more of a clarification and articulation of current concepts than it is an attempt to persuade. I came to the book for three main reasons.
 
@@ -38,7 +38,7 @@ The second reason is that I am baffled at the arguments for libertarianism. I wa
 
 The third reason is that I just obtained my first substantial form of private property! I purchased a small apartment and am looking to buy a modest plot of land for amateur farming. While going through the paperwork, I was constantly thinking about why I was justified in making this purchase, and what rights allowed me to do so.
 
-In the end, Lamb’s review of private property is an excellent one. It wasn’t exactly what I was looking for – I was naivly looking for something more absolute – but Lamb succeeded in convincing me that the idea of property is political in nature and we can only approach it within a given context.
+In the end, Lamb’s review of private property is an excellent one. It wasn’t exactly what I was looking for – I was naively looking for something more absolute – but Lamb succeeded in convincing me that the idea of property is political in nature and we can only approach it within a given context.
 
 The greatest questions in this world simply can’t be answered outright. Lamb does a great job at reviewing how people have approached thinking about property in the past, as well as giving his educated opinion on what are the best answers for his question: _why private property?_
 
@@ -78,9 +78,9 @@ To keep this review short, I will break out the analysis of each chapter into a 
 <h2><strong>Final Thoughts</strong></h2>
 Even though Lamb's _Property_ didn't give me the morale absolutes I was looking for before picking it up, it opened my eyes to a complex debate and presented me with different ways of thinking about my questions.
 
-He does, however, seem overly confident in his defense of private property. I'm sure a large number of people will agree with his analysis that Rawl's theory of Property within Justice and the work that has come out of it justify private property as an institution.
+He does, however, seem overly confident in his defense of private property. I'm sure a large number of people will agree with his analysis that Rawls’s theory of Property within Justice and the work that has come out of it justify private property as an institution.
 
-To me, it seems there are still too many issues left unaswered related to fair distribution and opportunity. I won't even go into the unjust acquisition of property in the case of colonialism and imperialism and what that means for the concentration of wealth (and therefore property) in the modern world.
+To me, it seems there are still too many issues left unanswered related to fair distribution and opportunity. I won't even go into the unjust acquisition of property in the case of colonialism and imperialism and what that means for the concentration of wealth (and therefore property) in the modern world.
 
 For the casual reader, I would not recommend this book simply because it dives a little too much into the academic, historic, and philosophical nature of the argument. That is not something negative towards Lamb or the book, just how to classify it for different groups of readers.
 
