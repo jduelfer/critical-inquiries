@@ -1,0 +1,72 @@
+---
+layout: narrative
+author: Jon Duelfer
+title: Gasoline
+bookauthor: Quim Monzó
+bookauthorurl: authors/quim-monzo
+date: 2021-05-05 07:00:00 -0400
+categories: book
+description: Heribert is an established artist who can't seem to find his drive in life. His days revolve around romantic flings – even though he's married to his wife Helena – and exploring the bizarre depths of his own imagination. Monzó’s writing is comical and thought-provoking, creating an unconventional novel that's a pleasure to read and a great addition to his vast array of stories.
+keywords: Gasoline Quim Monzó book review
+type: novel
+typeurl: novels
+comments: true
+recommended: true
+order: 9
+cover: gasoline.webp
+score: 83
+banner: true
+link: https://www.openletterbooks.org/products/gasoline
+linktext: Buy directly from Open Letter Books
+---
+<hr/>
+
+What I love about Quim Monzó’s writing is his ability to take the ordinary and mundane of life and pick it apart, revealing a radically different view of the world. His scenes shift between reality and comically surreal dreams in an instant. His characters are reasonable and rational – until, all of a sudden, they are not.
+
+When I read Monzó, I feel that he’s giving me some advice: life can be frustrating and difficult to navigate, but if we think about how ridiculous it all is – the social norms we concoct, the restraints that we put on ourselves for no reason – we can escape the box we’ve confined ourselves in and appreciate life for the random collection of events that it truly is.
+> Not missing a beat, a stream of hungry office workers hurries into place, pushing and shoving, gulping down watery coffee, milk, toast, and croissants.
+
+_Gasoline_ is creative, witty, and outright hilarious at times – a book length alternative to Monzó's classic short stories. It reads less like a single, constant plot than it does a collection of scenes glued together from the mind of an unstable narrator.
+> He has dinner with Herundina in a quiet restaurant, where everyone speaks softly amid white tablecloths in an overheated roof garden with ivy-covered brick walls. The table they are sitting at is a bit wobbly. They ought to prop it up, but since they don’t, Heribert spends the whole time making it wobble.
+
+_Open Letter Books_ has [an entire collection dedicated to Catalan literature](https://www.openletterbooks.org/collections/catalonia) that is fantastic. Alongside more stories by Monzó, they translate works from Mercè Rodoreda and Joan Orpí. Even though the tone differs enormously from _Gasoline_, I highly recommend picking up a copy of [Death in Spring](/texts/2020-04-21-death-in-spring), one of my favorite books of all time.
+
+<h2><strong>Story</strong></h2>
+Heribert is an established artist who now spends his days getting lost in random thoughts and silly tangents instead of painting. He lives with his wife, Helena, and loves her deeply, even though he has an assortment of other lovers that he frequently sees.
+
+Helena knows about these lovers and even has some of her own, which Heribert is also aware of. Even though they don’t discuss these relationships openly, there is an implicit sense of trust: they neither ask about lovers nor lie to each other.
+> When he gets home, Helena is arriving at the same time. At the street entrance, they look at each other, each with key in hand, grinning at each other, like tacit accomplices.
+
+One day, however, Heribert feels that Helena is lying to him about where she is going. Helena had said she was going to her friends house, so Heribert makes a call. The friend clearly wasn’t expecting Helena that night.
+
+Heribert is neither upset nor angry; he's curious. He wants to know why Helena would lie to him. He wants to discover more about the man she is seeing, so he decides to follow her, which immediately turns into a bizarre game.
+> He is so pleased he almost runs up to Helena and her companion and takes each of them by the arm to share the joke with him. If they were real people – and not just flesh puppets – they would laugh with him and all three of them would go home, and while four-eyes went to bed with Helena, he would paint thirty paintings in an hour. And then they’d all go out for drinks.
+
+<h2><strong>Thoughts</strong></h2>
+There is no clear plot that drives the book forward. What makes it interesting is Monzó’s whimsical writing and his characters' introspective thoughts. It’s the little things that Heribert does and says in his life that make us think deeply about our own.
+> Then the taxi starts up and takes him home. Heribert pays the driver, who has a sympathetic look on his face, for which Heribert gives him an excessive tip, so that he will realize that if either of them should feel sympathy for the other, it is he for the driver.
+
+Although many of Monzó’s serious observations are wrapped in humor, he also gives some to us straight.
+> For a while, he halfheartedly mulls over the thought that everything goes by (or everything has gone by him) too quickly in life. 
+
+... or ...
+> Do you really have to do something new? Why? What is more important, to be honest or to be original? Out of honesty, people often refused to be original. And out of honesty people often fall silent rather than open their mouths only to hear their own voices. Will he be able to tell when he opens his mouth and nothing interesting comes out? 
+
+I love the way that Monzó narrates in the third-person, but also manages to bring us deep into the minds of his characters. This is a difficult thing to convey correctly, and I feel that many writers revert to first-person when doing this. Personally, I find third-person a much stronger form of narration and appreciate how Monzó handles this interchange.
+> In an on-the-spot application of the ideas fluttering in his head, he sees that leafing through those books comes down, in the end, to a series of arbitrary gestures; and he finds it quite fine to be making arbitrary gestures. Why is it quite fine to be making arbitrary gestures? He doesn't feel like responding and even considers it stupid to have posed the question. He finds thinking to be a bore. He finds this boredom to be another symptom of maturity.
+
+... or ...
+> He's disconcerted at Herundina's not yet having arrived. What if it's all his imagination, and she hasn't called and, consequently, they haven't arranged to meet at all? What if he dreamed it and now, in a waking state, he is fruitlessly awaiting a meeting that will never take place? Or what if he's dreaming now and fretting about a date that can't take place unless he wakes up? He feels so disinclined to think about the possible reasons why the girl hasn't shown up that, when he finishes the last glass of rum, he gets up, pays the bill, leaves the restaurant, and heads down the street. 
+
+<h2><strong>Typos</strong></h2>
+I did come across two typos in the book. I’m not a stickler whatsoever – I have typos in my writing all the time. But I do have to admit that it jolts you out of the flow when you come across them. I read this in EPUB format, so I’m not sure if they also appear in the print.
+>  All he needs is a bit of will and a little courage. Has <strong>be</strong> become so demanding that he no longer approves of work that just months before would have satisfied him? 
+
+> <strong>Her</strong> draws her close to him, takes her in his arms, and kisses her.
+
+<h2><strong>Final Thoughts</strong></h2>
+_Gasoline_ is less of a story than it is a compilation of thoughts and scenes about art, love, and life more broadly. I think some readers will greatly appreciate Monzó's wit and comedy, while others may get frustrated with a stagnant plot. 
+
+If you are a reader who enjoys a gripping plot, this is probably not the book for you. Although it's also a very short book, I'd recommend picking up [Guadalajara](https://www.openletterbooks.org/collections/catalonia/products/guadalajara) or one of his other short story collections to get an appreciation for his writing style before jumping into this novel.
+
+That being said, as a fan of Monzó, I thought this book was fantastic. It was both thought-provoking and a pleasure to read. I felt whipped into Heribert’s bizarre life and supspect that there must be something of Monzó himself in there.

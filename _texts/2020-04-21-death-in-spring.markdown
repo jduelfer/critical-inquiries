@@ -15,6 +15,8 @@ order: 5
 cover: death-in-spring.jpg
 score: 92
 banner: true
+link: https://www.openletterbooks.org/products/death-in-spring
+linktext: Buy directly from Open Letter Books
 ---
 <hr/>
 
