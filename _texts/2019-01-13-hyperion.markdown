@@ -2,6 +2,8 @@
 layout: narrative
 author: Jon Duelfer
 title: Hyperion
+series: Hyperion Cantos
+seriesnumber: "#1"
 bookauthor: Dan Simmons
 bookauthorurl: authors/dan-simmons
 date: 2019-01-13 15:00:00 -0400

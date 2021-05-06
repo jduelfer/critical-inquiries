@@ -2,6 +2,8 @@
 layout: narrative
 author: Jon Duelfer
 title: Words of Radiance
+series: Stormlight Archive
+seriesnumber: "#2"
 bookauthor: Brandon Sanderson
 bookauthorurl: authors/brandon-sanderson
 date: 2020-12-04 17:30:00 -0400
@@ -14,7 +16,7 @@ comments: true
 recommended: false
 order: 10
 cover: words-of-radiance.png
-score: 83
+score: 82
 banner: true
 ---
 <hr/>

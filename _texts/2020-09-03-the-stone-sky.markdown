@@ -2,6 +2,8 @@
 layout: narrative
 author: Jon Duelfer
 title: The Stone Sky
+series: The Broken Earth
+seriesnumber: "#3"
 bookauthor: N.K. Jemisin
 bookauthorurl: authors/nk-jemisin
 date: 2020-09-09 20:00:00 -0400

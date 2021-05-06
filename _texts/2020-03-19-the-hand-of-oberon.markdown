@@ -2,6 +2,8 @@
 layout: narrative
 author: Jon Duelfer
 title: The Hand of Oberon
+series: The Chronicles of Amber
+seriesnumber: "#4"
 bookauthor: Roger Zelazny
 bookauthorurl: authors/roger-zelazny
 date: 2020-03-19 16:00:00 -0400

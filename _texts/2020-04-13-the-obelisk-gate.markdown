@@ -2,6 +2,8 @@
 layout: narrative
 author: Jon Duelfer
 title: The Obelisk Gate
+series: The Broken Earth
+seriesnumber: "#2"
 bookauthor: N.K. Jemisin
 bookauthorurl: authors/nk-jemisin
 date: 2020-04-13 17:00:00 -0400

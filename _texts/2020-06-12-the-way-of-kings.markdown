@@ -2,6 +2,8 @@
 layout: narrative
 author: Jon Duelfer
 title: The Way of Kings
+series: Stormlight Archive
+seriesnumber: "#1"
 bookauthor: Brandon Sanderson
 bookauthorurl: authors/brandon-sanderson
 date: 2020-06-12 18:00:00 -0400

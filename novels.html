@@ -37,8 +37,11 @@ sidebarorder: 2
         </div>
         <div>
             <a href="{{ site.baseurl }}{{ item.url }}" style="font-size: 20px;">
-            <i>{{ item.title }}</i> by {{ item.bookauthor }}
+                <i>{{ item.title }}</i> by {{ item.bookauthor }}
             </a>
+            {% if item.series != null %}
+                <p style="font-size: 12px;margin-bottom: 0px;"><i>{{ item.series }} {{ item.seriesnumber }}</i></p>
+            {% endif %}
             <p style="font-size: 16px;margin-bottom: 0px;">{{ item.description }}</p>
         </div>
         </div>

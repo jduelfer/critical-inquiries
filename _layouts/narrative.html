@@ -9,6 +9,9 @@ layout: default
   {% if page.subtitle != null %}
     <h5 style="padding:0px;margin:0px"><strong>{{ page.subtitle }}</strong></h5>
   {% endif %}
+  {% if page.series %}
+    <h5 style="padding:0px;margin:0px">{{ page.series }} {{ page.seriesnumber }}</h5>
+  {% endif %}
   {% if page.bookauthor %}
     <p class="citation" style="margin-bottom:0px;"><i>by</i> 
     <a href="/{{ page.bookauthorurl }}">{{ page.bookauthor }}</a></p>
