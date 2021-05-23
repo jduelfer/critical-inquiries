@@ -6,7 +6,7 @@ bookauthor: Patrick Porter
 bookauthorurl: authors/patrick-porter
 date: 2021-05-23 14:00:00 -0400
 categories: book
-description: Many believe that the relative peace of the last century is coming to an end. The rise of authoritarians across the globe indicates that the a liberal, democratic order may fail. Porter argues that the order was never really liberal; it was based on the imperialistic dominance of the United States and the compliance of its allies. This contradiction between American democratic values at home and its illerbal foreign policy is revleaing cracks in the myth of liberal order and showing the global stage for what it actually is.
+description: Many believe that the relative peace of the last century is coming to an end. The rise of authoritarians across the globe indicates that the liberal, democratic order may fail. Porter argues that the order was never really liberal; it was based on the imperialistic dominance of the United States and the compliance of its allies. This contradiction between American democratic values at home and its illerbal foreign policy is revleaing cracks in the myth of liberal order and showing the global stage for what it actually is.
 keywords: The False Promise of Liberal Order review book nonfiction Patrick Porter
 type: nonfiction
 comments: true
