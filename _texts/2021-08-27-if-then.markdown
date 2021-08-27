@@ -1,0 +1,99 @@
+---
+layout: narrative
+author: Jon Duelfer
+title: If Then
+subtitle: How the Simulmatics Corporation Invented the Future
+bookauthor: Jill Lepore
+bookauthorurl: authors/jill-lepore
+date: 2021-08-27 13:30:00 +0200
+categories: book
+description: The rise of political consulting, advertising, and computers divided and dissected voters into smaller interest groups. Data was collected and processed at blinding speeds to predict how people would vote. The Simulmatics Corporation was founded in this era. It claimed to accurately forecast the outcome of presidential elections. It stumbled along, occasionally making correct predictions, often not. The Department of Defense would hire the company to predict insurgency in Vietnam, which Simulmatics would then use domestically to predict urban riots. It would thrive and collapse under its pseudo-scientific claims, but lay the groundwork for predictive analytics in the 21st century.
+keywords: If Then review book nonfiction Jill Lepore
+type: nonfiction
+comments: true
+recommended: false
+cover: if-then.jpg
+score: 81
+isbook: true
+banner: true
+link: https://wwnorton.com/books/9781631496103/overview
+linktext: Buy through the publisher <i>W.W. Norton</i>
+---
+<hr/>
+
+Jill Lepore has written another impressive book with _If Then: How the Simulmatics Corporation Invented the Future_. Notably different from her [immense and awe-inspiring history of the United States, These Truths](/texts/2021-03-16-these-truths/), _If Then_ hopes to delve into the history of a small business and its eccentric founders. The Simulmatics Corporation would ultimately fold and fall into obscurity, but its ideas and founders would arguably change the course of history.
+
+Its protagonists are both remarkable and ordinary. They were businessmen and scientists at the top of their fields, endowed with grandeur and heightened intelligence, yet lived everyday lives in a society that secured their advantage and prosperity. Some were exceptional scientists, some terrible fathers, some despicable husbands. They pursued their goals in an era dominated by white males with the belief that they could simply do no wrong.
+
+In this sense, Lepore depicts history as something different than the monumental clash of good vs. evil. It's an unorganized sequence of individuals stumbling across inventions, some which are successful, some which fail, some which provide for the good of society, and some which do irreversible harm.
+
+_If Then_ is not quite the book it claims to be – or at least the type of book I understood it to be. The publisher, W.W. Norton, describes it as the following:
+> The Simulmatics Corporation, founded in 1959, mined data, targeted voters, accelerated news, manipulated consumers, destabilized politics, and disordered knowledge—decades before Facebook, Amazon, and Cambridge Analytica. Although Silicon Valley likes to imagine that it has no past, the scientists of Simulmatics are almost undoubtedly the long-dead ancestors of Mark Zuckerberg and Elon Musk—or so argues Jill Lepore, distinguished Harvard historian and New Yorker staff writer, in this “hilarious, scathing, and sobering” (David Runciman) account of the origins of predictive analytics and behavioral data science.
+
+As a software developer, I found this description seriously misleading. I expected Lepore to draw connections clearly and articulately between the history of “predicative analytics and behavioral science” and the rise of the companies listed above. Sure, the fundamental ideas are loosely connected, but it is inaccurate to write this sort of description.
+
+That critique is not meant to take away from Lepore's text itself. _If Then_ is intended more as a biography of a company and the individuals associated with it, rather than a technical exploration into the history of “predictive analytics.” It focuses much more on the politics of the time: the rise of advertising and consulting that resembles much of what we see today.
+
+The founders of the Simulmatics Corporation believed that they could predict the future – a fallacy plaguing human thought since the beginning of time – only that, here, it seemed reasonable, obfuscated by the allure of science and data. We see many of the same beliefs today, instilled with the hope of emerging technology.
+
+However, in the 21st century, we are now aware that social or political data – no matter how much we wish it to be purely scientific – contains bias in almost every form. Yet it is still incredibly valuable to corporations, governments, scientists, and political parties. This will not change anytime soon, so it's important to understand its history and how we got to where we are today.
+> Simulmatics, notwithstanding its own failure, helped invent the data-mad and near-totalitarian twenty-first century, in which the only knowledge that counts in prediction, and before and after the coming of the coronavirus, corporations extract wealth by way of the collection of data and the manipulation of attention and the profit of prophecy. In a final irony, Simulmatics, whose very past has been all but erased, helped invent a future obsessed with the future, and yet unable to improve it.
+
+<h2><strong>The Rise of Political Consulting</strong></h2>
+The rise of software simulations in politics was predated by the rise of political consulting companies, who often hand their hands in advertising and marketing. Political parties realized that voters were very much like consumers; they were swayed by emotions and flashy advertisements arguably more than politics itself.
+
+Lepore quotes an article written in the _Nation_ by Carey McWilliams about a “California company called Campaigns, Inc., the first political consulting firm in the history of the world.” Lepore writes:
+> They'd opened shop in 1933, chiefly running political campaigns for Republican candidates. For a long time, they'd taken only California clients. But beginning in 1949, they'd engaged in a national campaign, and they'd won: retained by the American Medical Association, they'd defeated a national health insurance plan proposed by the Democratic president, Harry S. Truman – the last, unfinished work of the New Deal. The AMA paid Campaigns, Inc. $3.5 million. “This must be a campaign to arouse and alert the American people in every walk of life, until it generates a great public crusade and a fundamental fight for freedom,” Whitaker and Baxter's Plan of Campaign began. “Any other plan of action, in view of the drift towards socialization and despotism all over the world, would invite disaster.”
+
+Lepore makes it clear that the new wave of political advertising and consulting was causing a decay in the democratic process. Money, money, and more money could influence voters as if they were consumers of a product. Slogans, flashy images, emotions, and fear, could sway voters more easily than policy.
+
+Lepore laments this turning point in American politics, believing that Americans were presented with the last candidate who truly cared: Adlai E. Stevenson. America rejected him, and started the long, sad road of pseudo-politics on which we now ride.
+> The Democratic Party, Stevenson argued, had rescued the country from the Depression and ushered in an age of abundance. And yet a danger lurked. Something evil stalked the land. The political savage. Senator Joseph McCarthy, a brawny Republican from Wisconsin, had in 1950 begun a campaign against supposed Communist subversives in the United States, a campaign of nearly unrivaled demagoguery. He stoked fear. He fought phantoms. He incited panic. He persecuted the weak. He lied. And people believed him. That night in Chicago, Adlai E. Stevenson of Illinois presented himself, not to his party but to the nation, as a political savior who could rescue Americans from the malice and vulgarity of modern American politics.
+
+Looking at today, it's obvious that Stevenson wasn't successful in his goal. Was this the deciding point, the decline in American politics? Did we turn away, as a nation, from intellectualism and turn instead towards advertising and money?
+
+We were a democracy fumbling with the nature of democracy itself, a country with wild amounts of money, a society with millions struggling for Civil Rights. In this context, political consulting and predictive analytics grew.
+
+<h2><strong>The Philosophical Underpinnings</strong></h2>
+> Cold Warriors understood themselves as engaged in a battle over the future. To win that battle, they tried to turn a lot of things, including the study of human behavior, into predictive sciences. The more dangerous the Cold War got, the more madly its scientists scrambled to foretell the future. And the more heedlessly and violently they cast aside the past, the knowledge of ages, the humanities, the study of the human condition: history, philosophy, literature. (p. 35)
+
+The belief that we can foretell the future, whether through science or through mysticism, is an ancient one. The Cold War era and its propaganda promoting American democracy, capitalism, and greatness led many men to believe that they were infallible, that what they wrote into computer programs was stuff of fact and science, not of bias or missing knowledge. These were the men who created the predictive sciences, and it's only natural, then, how it has evolved until today.
+
+Lepore summarizes the thoughts of Eugine Burdick, a political scientist and novelist who worked with Ed Greenfield, the founder of the Simulmatics Corporation, but who refused to join for many philosophical reasons:
+> As Burdick saw it, quantitative political science proceeded with very little concern either for political theory or for the actual workings of democracy. Liberal democratic theory posits the rationality of citizens and their interest in and active participation in politics, but the citizen described in the voting behavior research does not meet even a minimum test for rationality and is not very interested in politics, or involved, either. Democratic self-government relies on feelings of belonging and political community, and divisions that include political parties and interest groups, but the voting studies sorted voters into artificial, identity-based categories like “upper-middle-Catholic-urban”...It was possible they could be turned into a group, by virtue of being classed as one, consistently, but that would seem more likely to harm than to benefit the polity. Burdick wondered whether pluralism could survive when the nation's political scientists had dedicated themselves to the project of segmenting the electorate.
+
+Is this not eerily similar to how we define the political process today? A set of interest groups: farmers, southerners, metropolitan liberals, etc.? Did Burdick not foresee what politics would look like if we tried to segment it “scientifically?” And could this segmentation have caused the resulting division in politics that many see today?
+
+<h2><strong>Defense</strong></h2>
+The political and scientific context is further reinforced by the United States government and the Department of Defense.
+> Between 1950 and 1952, the budget of the United States Department of Defense grew from $500 million to $1.6 billion...In the middle of the 1950s, military spending made up close to three-quarters of the federal budget.
+
+The military expanded with people that would have never thought to join its ranks before: scientists, academics, administrators. It became a machine that depended on itself, churning and churning not because of malice or evil, necessarily, but because ordinary people with their own aspirations made up the machine. This resulted in the Vietnam War that “would not end until 1975, by which time it would have taken the lives of fifty-eight thousand Americans and three million Vietnamese, two million of them civilians.”
+
+It seems reasonable, in some bizarre sense, that in a society where money is flooding into the military, and the military is flooding money into universities and research, that pseudo-scientists will produce pseudo-science that money is asking for. Lepore believes that this is what happened in the field of behavioral science: it was essentially a puppet of the military, especially MIT.
+> A calculating machine given enough information about an aircraft and enough data about factors like weather, can very usefully simulate a flight. Gravity is a law. Also, F = ma: the force that acts on a physical object is equal to its mass times its acceleration. But the computer simulation of human behavior or human cognition is much more difficult. Behavior is not a law, even in behavior scientists wanted to make it one. Laws of human behavior, like Eugene Burdick's f + h = p, are something between whimsy and bunk. Fear plus hate does not equal power, not in any mathematical sense, anyway. Nor is cognition a law.
+
+The belief that a scientific answer can be achieved for any problem is a dogma. It causes harm just as any dogma does. It creates pseudo-scientists. It can make people blind to real problems in front of them.
+> Leaders of the civil rights movement would come to view the space race and the arms race as a flight of a different sort, a flight from justice, a flight from commitment, a white flight. “It will cost thirty-five billion dollars to put two men on the moon,” the National Urban league's Whitney Young would complain. “It would take ten billion dollars to lift every poor person in this country above the official poverty standard this year.”
+
+Of course, believing that “ten billion dollars” would reverse poverty is a dogmatic belief as well: economics is much more complex than that. But the point is an important one. Science, at the time, was not dedicated to solving real problems, but rather subjected to the will of money and the military. It wasn't an honest pursuit of truth like many claim, but one bent and malformed to the politics of the time. It's important to analyze our current scientific research under a similar lens.
+
+<h2><strong>Simulmatics Corporation</strong></h2>
+All of the above mentioned, and much more that Lepore outlines, is the context for which Ed Greefield would create the Simulmatics Corporation. It is the context for which the company would win funding for political campaigns and government contracts for the Vietnam War. It would even set up an office in Saigon, believing to be mitigating the war effort, but simply adding flames to the fire.
+
+The Simulmatics Corporation's founders would ignore the well-established idea that ad-agencies and political segmentation could cause harm to the democratic progress. It dedicated itself to the Kennedy campaign. It became a sleazy company seeking investment, low-bidding on contracts and failing to provide services. It completely blundered a simulation for the _New York Times_. It was an absolute disaster; but it kept making money.
+
+That is the way of technology in a capitalist system. Investment, investment, investment and media attention leads to more investment, even if the results are not useful or rational: the goal is to make money and keep on going.
+
+But good there be some use to it? The algorithms designed by [Ithiel de Sota Pool](https://en.wikipedia.org/wiki/Ithiel_de_Sola_Pool) for Simulmatics, as well has his groundbreaking idea of “social networks,” are now used in some of the most influential companies today. Even Pool's students, Tom Van Vleck and Noel Morris, while working for Pool at MIT, were the ones to invent e-mail.
+
+Progress was made, but harm was done to many. Science and innovation can produce miraculous things, but under the wrong circumstances, they can develop into an entirely different beasts. Simulmatics arose and thrived in a pseudo-scientific era enthralled by emerging technology. It stumbled along, produced moments of ingenuity, but more often than not fomented disaster until it ultimately fell apart.
+
+It's wrong to say that the Simulmatics Corporation created the data-mad world of today. It was a symptom of the shift into this new era. If it wasn't them, it would have been another – maybe better, maybe worse. But Lepore has presented its story for as as a sort of mirror to reflect on our world today.
+
+<h2><strong>Final thoughts</strong></h2>
+> Simulmatics failed, but not before its scientists built a very early version of the machine in which humanity would in the early twenty-first century find itself trapped, a machine that applies the science of psychological warfare to the affairs of ordinary life, a machine that manipulates opinion, exploits attention, commodifies information, divides voters, fractures communities, alienates individuals, and undermines democracy. “What does it take for people to recognize a dystopia?” the virtual reality pioneer Jaron Lanier asked in 2019, anguished, heartbroken. Long before the age of quarantine and social distancing, Simulmatics helped atomize the world.
+
+[Jill Lepore](https://www.thecommonsapp.com/author/jill-lepore) is one of the strongest public intellectuals today. She writes excellently for [The New Yorker](https://www.thecommonsapp.com/publisher/the-new-yorker) on a wide rage of issues focused primarily on the intersection of history, politics, and technology. _If, Then_ fits right in her repertoire, and is an excellent book if you are familiar with her writing.
+
+If this were to be your first book from her, I'd instead recommend picking up [her history of the United States](/texts/2021-03-16-these-truths/) or reading a [condensed version of this book in this New Yorker article](https://www.newyorker.com/magazine/2020/08/03/how-the-simulmatics-corporation-invented-the-future).
