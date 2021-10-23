@@ -9,10 +9,9 @@ categories: book
 description: Different moments in time hang in space like sheets, like screens lit up by one moment; the world is made up of these frozen moments, great meta-images, and we just hop from one to the next.
 type: novel
 comments: true
-recommended: true
-order: 9
 cover: flights.jpg
 score: 80
+order: 10
 ---
 <hr/>
 
