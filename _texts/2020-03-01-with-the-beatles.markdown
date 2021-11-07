@@ -20,7 +20,7 @@ score: 90
 ---
 <hr/>
 
-Haruki Murakami taps into the aesthetic unlike any other writer today. He has a profound understanding of beauty and sentiments and coveys this understanding in direct and elegant prose.
+Haruki Murakami taps into the aesthetic unlike any other writer today. He has a profound understanding of beauty and sentiments and coveys this understanding in direct and elegant prose. This story continues his fascination with music and The Beatles, similar to his story, [Yesterday](/texts/2021-10-24-yesterday/), published in _The New Yorker_ back in 2014 and included in his excellent collection, _Men Without Women_.
 
 In _With the Beatles_ – translated by Peter Gabriel into English – Murakami writes about memories and how they are filled with sensations, how they shift and change over the years, and how they influence our lives.
 

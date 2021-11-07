@@ -11,6 +11,7 @@ keywords: Confessions of a Shinagawa Monkey Haruki Murakami review fiction short
 type: short story
 typeurl: shortstories
 recommended: false
+order: 11
 comments: true
 cover: new-yorker-june-8-15.jpg
 covercaption: <i>This Side Up</i> by Richard McGuire
@@ -21,9 +22,11 @@ banner: true
 ---
 <hr/>
 
-I was surprised to find a story from Haruki Murakami in the [June fiction issue of the New Yorker](https://www.newyorker.com/magazine/2020/06/08) since the magazine had previously published a story of his, [With the Beatles](/texts/2020-03-01-with-the-beatles/), back in February. No complaints from me   though; Murakami is always a treasure to read.
+I was surprised to find a story from Haruki Murakami in the [June fiction issue of the New Yorker](https://www.newyorker.com/magazine/2020/06/08) since the magazine had previously published a story of his, [With the Beatles](/texts/2020-03-01-with-the-beatles/), back in February. No complaints from me though; Murakami is always a treasure to read.
 
-_Confessions of a Shinagawa Monkey_ is much more whimsical than _With the Beatles_. As the title implies, it’s about a talking monkey and the difficulties of a life surrounded by humans.
+_The New Yorker_ also published his story, [Yesterday](/texts/2021-10-24-yesterday/), back in 2014 – which appeared in his excellent collection, _Men Without Women_.
+
+_Confessions of a Shinagawa Monkey_ is much more whimsical than both [Yesterday](/texts/2021-10-24-yesterday/) and [With the Beatles](/texts/2020-03-01-with-the-beatles/). As the title implies, it’s about a talking monkey and the difficulties of a life surrounded by humans.
 
 <h2><strong>The Story</strong></h2>
 In rural Japan, a traveler comes across a small, rundown inn. Since all the other inns in the area are already filled up, he decides to stay the night.
@@ -58,4 +61,4 @@ _Confessions of a Shinagawa Monkey_ was an odd story. I won’t try to moralize,
 
 We _could_ imagine parallels between the monkey – outcast from human society – with people who are outcast from their own societies. I’m leaning towards agreeing with the narrator, though, that maybe there isn't a real theme or moral.
 
-Murakami has written, like always, an entertaining story that reflects on our emotions and how they are the fundamental reasons for our existence. Although I’d suggest picking up [With the Beatles](/texts/2020-03-01-with-the-beatles/) first, this is a good story that’s well worth the short read.
+Murakami has written, like always, an entertaining story that reflects on our emotions and how they are the fundamental reasons for our existence. Although I’d suggest picking up [Yesterday](/texts/2021-12-24-yesterday/) or [With the Beatles](/texts/2020-03-01-with-the-beatles/) first, this is a good story that’s well worth the short read.
